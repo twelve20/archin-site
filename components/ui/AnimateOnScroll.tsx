@@ -1,1 +1,49 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgbW90aW9uLCB1c2VJblZpZXcgfSBmcm9tICJmcmFtZXItbW90aW9uIjsKaW1wb3J0IHsgdXNlUmVmLCBSZWFjdE5vZGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKaW50ZXJmYWNlIEFuaW1hdGVPblNjcm9sbFByb3BzIHsKICBjaGlsZHJlbjogUmVhY3ROb2RlOwogIGNsYXNzTmFtZT86IHN0cmluZzsKICBkZWxheT86IG51bWJlcjsKICBkaXJlY3Rpb24/OiAidXAiIHwgImxlZnQiIHwgInJpZ2h0IiB8ICJub25lIjsKfQoKZXhwb3J0IGZ1bmN0aW9uIEFuaW1hdGVPblNjcm9sbCh7CiAgY2hpbGRyZW4sCiAgY2xhc3NOYW1lLAogIGRlbGF5ID0gMCwKICBkaXJlY3Rpb24gPSAidXAiLAp9OiBBbmltYXRlT25TY3JvbGxQcm9wcykgewogIGNvbnN0IHJlZiA9IHVzZVJlZjxIVE1MRGl2RWxlbWVudD4obnVsbCk7CiAgY29uc3QgaXNJblZpZXcgPSB1c2VJblZpZXcocmVmLCB7IG9uY2U6IHRydWUsIG1hcmdpbjogIi01MHB4IiB9KTsKCiAgY29uc3QgdmFyaWFudHMgPSB7CiAgICBoaWRkZW46IHsKICAgICAgb3BhY2l0eTogMCwKICAgICAgeTogZGlyZWN0aW9uID09PSAidXAiID8gMjQgOiAwLAogICAgICB4OgogICAgICAgIGRpcmVjdGlvbiA9PT0gImxlZnQiID8gLTI0IDogZGlyZWN0aW9uID09PSAicmlnaHQiID8gMjQgOiAwLAogICAgfSwKICAgIHZpc2libGU6IHsKICAgICAgb3BhY2l0eTogMSwKICAgICAgeTogMCwKICAgICAgeDogMCwKICAgIH0sCiAgfTsKCiAgcmV0dXJuICgKICAgIDxtb3Rpb24uZGl2CiAgICAgIHJlZj17cmVmfQogICAgICBpbml0aWFsPSJoaWRkZW4iCiAgICAgIGFuaW1hdGU9e2lzSW5WaWV3ID8gInZpc2libGUiIDogImhpZGRlbiJ9CiAgICAgIHZhcmlhbnRzPXt2YXJpYW50c30KICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC42LCBlYXNlOiAiZWFzZU91dCIsIGRlbGF5IH19CiAgICAgIGNsYXNzTmFtZT17Y24oY2xhc3NOYW1lKX0KICAgID4KICAgICAge2NoaWxkcmVufQogICAgPC9tb3Rpb24uZGl2PgogICk7Cn0K"}
+"use client";
+
+import { motion, useInView } from "framer-motion";
+import { useRef, ReactNode } from "react";
+import { cn } from "@/lib/utils";
+
+interface AnimateOnScrollProps {
+  children: ReactNode;
+  className?: string;
+  delay?: number;
+  direction?: "up" | "left" | "right" | "none";
+}
+
+export function AnimateOnScroll({
+  children,
+  className,
+  delay = 0,
+  direction = "up",
+}: AnimateOnScrollProps) {
+  const ref = useRef<HTMLDivElement>(null);
+  const isInView = useInView(ref, { once: true, margin: "-50px" });
+
+  const variants = {
+    hidden: {
+      opacity: 0,
+      y: direction === "up" ? 24 : 0,
+      x:
+        direction === "left" ? -24 : direction === "right" ? 24 : 0,
+    },
+    visible: {
+      opacity: 1,
+      y: 0,
+      x: 0,
+    },
+  };
+
+  return (
+    <motion.div
+      ref={ref}
+      initial="hidden"
+      animate={isInView ? "visible" : "hidden"}
+      variants={variants}
+      transition={{ duration: 0.6, ease: "easeOut", delay }}
+      className={cn(className)}
+    >
+      {children}
+    </motion.div>
+  );
+}

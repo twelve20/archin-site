@@ -1,1 +1,90 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlQ2FsbGJhY2sgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB1c2VFbWJsYUNhcm91c2VsIGZyb20gImVtYmxhLWNhcm91c2VsLXJlYWN0IjsKaW1wb3J0IEF1dG9wbGF5IGZyb20gImVtYmxhLWNhcm91c2VsLWF1dG9wbGF5IjsKaW1wb3J0IHsgQ2hldnJvbkxlZnQsIENoZXZyb25SaWdodCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IGdldFBvcHVsYXJQcm9kdWN0cyB9IGZyb20gIkAvZGF0YS9wcm9kdWN0cyI7CmltcG9ydCB7IFNlY3Rpb25IZWFkaW5nIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL1NlY3Rpb25IZWFkaW5nIjsKaW1wb3J0IHsgUHJvZHVjdENhcmQgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvUHJvZHVjdENhcmQiOwoKZXhwb3J0IGZ1bmN0aW9uIFBvcHVsYXJQcm9kdWN0cygpIHsKICBjb25zdCBwcm9kdWN0cyA9IGdldFBvcHVsYXJQcm9kdWN0cygpOwoKICBjb25zdCBbZW1ibGFSZWYsIGVtYmxhQXBpXSA9IHVzZUVtYmxhQ2Fyb3VzZWwoCiAgICB7IGxvb3A6IHRydWUsIGFsaWduOiAic3RhcnQiLCBzbGlkZXNUb1Njcm9sbDogMSB9LAogICAgW0F1dG9wbGF5KHsgZGVsYXk6IDQwMDAsIHN0b3BPbkludGVyYWN0aW9uOiB0cnVlIH0pXQogICk7CgogIGNvbnN0IHNjcm9sbFByZXYgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBlbWJsYUFwaT8uc2Nyb2xsUHJldigpOwogIH0sIFtlbWJsYUFwaV0pOwoKICBjb25zdCBzY3JvbGxOZXh0ID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgZW1ibGFBcGk/LnNjcm9sbE5leHQoKTsKICB9LCBbZW1ibGFBcGldKTsKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0ic2VjdGlvbi1wYWRkaW5nIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lci1jdXN0b20iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWVuZCBqdXN0aWZ5LWJldHdlZW4gbWItMTIgbWQ6bWItMTYiPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPFNlY3Rpb25IZWFkaW5nCiAgICAgICAgICAgICAgdGl0bGU9ItCf0L7Qv9GD0LvRj9GA0L3Ri9C1INGC0L7QstCw0YDRiyIKICAgICAgICAgICAgICBzdWJ0aXRsZT0i0KHQsNC80YvQtSDQstC+0YHRgtGA0LXQsdC+0LLQsNC90L3Ri9C1INC80LDRgtC10YDQuNCw0LvRiyBBcmNoaW4iCiAgICAgICAgICAgICAgYWxpZ249ImxlZnQiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJtYi0wIgogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGlkZGVuIG1kOmZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3Njcm9sbFByZXZ9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJwLTMgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItYm9yZGVyIGhvdmVyOmJvcmRlci1hY2NlbnQgaG92ZXI6dGV4dC1hY2NlbnQgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgYXJpYS1sYWJlbD0i0J/RgNC10LTRi9C00YPRidC40LkiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8Q2hldnJvbkxlZnQgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPgogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3Njcm9sbE5leHR9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJwLTMgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItYm9yZGVyIGhvdmVyOmJvcmRlci1hY2NlbnQgaG92ZXI6dGV4dC1hY2NlbnQgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgYXJpYS1sYWJlbD0i0KHQu9C10LTRg9GO0YnQuNC5IgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPENoZXZyb25SaWdodCBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJvdmVyZmxvdy1oaWRkZW4iIHJlZj17ZW1ibGFSZWZ9PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggLW1sLTQiPgogICAgICAgICAgICB7cHJvZHVjdHMubWFwKChwcm9kdWN0KSA9PiAoCiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAga2V5PXtwcm9kdWN0LmlkfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LVswXzBfMTAwJV0gc206ZmxleC1bMF8wXzUwJV0gbGc6ZmxleC1bMF8wXzMzLjMzMyVdIHBsLTQiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPFByb2R1Y3RDYXJkIHByb2R1Y3Q9e3Byb2R1Y3R9IC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBNb2JpbGUgYXJyb3dzICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IG1kOmhpZGRlbiBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTQgbXQtNiI+CiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9e3Njcm9sbFByZXZ9CiAgICAgICAgICAgIGNsYXNzTmFtZT0icC0zIHJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLWJvcmRlciBob3Zlcjpib3JkZXItYWNjZW50IGhvdmVyOnRleHQtYWNjZW50IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICBhcmlhLWxhYmVsPSLQn9GA0LXQtNGL0LTRg9GJ0LjQuSIKICAgICAgICAgID4KICAgICAgICAgICAgPENoZXZyb25MZWZ0IGNsYXNzTmFtZT0idy01IGgtNSIgLz4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtzY3JvbGxOZXh0fQogICAgICAgICAgICBjbGFzc05hbWU9InAtMyByb3VuZGVkLWZ1bGwgYm9yZGVyIGJvcmRlci1ib3JkZXIgaG92ZXI6Ym9yZGVyLWFjY2VudCBob3Zlcjp0ZXh0LWFjY2VudCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgYXJpYS1sYWJlbD0i0KHQu9C10LTRg9GO0YnQuNC5IgogICAgICAgICAgPgogICAgICAgICAgICA8Q2hldnJvblJpZ2h0IGNsYXNzTmFtZT0idy01IGgtNSIgLz4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg=="}
+"use client";
+
+import { useCallback } from "react";
+import useEmblaCarousel from "embla-carousel-react";
+import Autoplay from "embla-carousel-autoplay";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import { getPopularProducts } from "@/data/products";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { ProductCard } from "@/components/ui/ProductCard";
+
+export function PopularProducts() {
+  const products = getPopularProducts();
+
+  const [emblaRef, emblaApi] = useEmblaCarousel(
+    { loop: true, align: "start", slidesToScroll: 1 },
+    [Autoplay({ delay: 4000, stopOnInteraction: true })]
+  );
+
+  const scrollPrev = useCallback(() => {
+    emblaApi?.scrollPrev();
+  }, [emblaApi]);
+
+  const scrollNext = useCallback(() => {
+    emblaApi?.scrollNext();
+  }, [emblaApi]);
+
+  return (
+    <section className="section-padding">
+      <div className="container-custom">
+        <div className="flex items-end justify-between mb-12 md:mb-16">
+          <div>
+            <SectionHeading
+              title="Популярные товары"
+              subtitle="Самые востребованные материалы Archin"
+              align="left"
+              className="mb-0"
+            />
+          </div>
+          <div className="hidden md:flex items-center gap-2">
+            <button
+              onClick={scrollPrev}
+              className="p-3 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
+              aria-label="Предыдущий"
+            >
+              <ChevronLeft className="w-5 h-5" />
+            </button>
+            <button
+              onClick={scrollNext}
+              className="p-3 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
+              aria-label="Следующий"
+            >
+              <ChevronRight className="w-5 h-5" />
+            </button>
+          </div>
+        </div>
+
+        <div className="overflow-hidden" ref={emblaRef}>
+          <div className="flex -ml-4">
+            {products.map((product) => (
+              <div
+                key={product.id}
+                className="flex-[0_0_100%] sm:flex-[0_0_50%] lg:flex-[0_0_33.333%] pl-4"
+              >
+                <ProductCard product={product} />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Mobile arrows */}
+        <div className="flex md:hidden items-center justify-center gap-4 mt-6">
+          <button
+            onClick={scrollPrev}
+            className="p-3 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
+            aria-label="Предыдущий"
+          >
+            <ChevronLeft className="w-5 h-5" />
+          </button>
+          <button
+            onClick={scrollNext}
+            className="p-3 rounded-full border border-border hover:border-accent hover:text-accent transition-colors"
+            aria-label="Следующий"
+          >
+            <ChevronRight className="w-5 h-5" />
+          </button>
+        </div>
+      </div>
+    </section>
+  );
+}

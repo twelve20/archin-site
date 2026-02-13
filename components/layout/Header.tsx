@@ -1,1 +1,99 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyBNZW51IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgbWFpbk5hdkl0ZW1zIH0gZnJvbSAiQC9kYXRhL25hdmlnYXRpb24iOwppbXBvcnQgeyBjb21wYW55SW5mbyB9IGZyb20gIkAvZGF0YS9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0J1dHRvbiI7CmltcG9ydCB7IE1vYmlsZU1lbnUgfSBmcm9tICIuL01vYmlsZU1lbnUiOwppbXBvcnQgeyBPcmRlck1vZGFsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL09yZGVyTW9kYWwiOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKCmV4cG9ydCBmdW5jdGlvbiBIZWFkZXIoKSB7CiAgY29uc3QgW3Njcm9sbGVkLCBzZXRTY3JvbGxlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW21vYmlsZU1lbnVPcGVuLCBzZXRNb2JpbGVNZW51T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW29yZGVyTW9kYWxPcGVuLCBzZXRPcmRlck1vZGFsT3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgcGF0aG5hbWUgPSB1c2VQYXRobmFtZSgpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgaGFuZGxlU2Nyb2xsID0gKCkgPT4gewogICAgICBzZXRTY3JvbGxlZCh3aW5kb3cuc2Nyb2xsWSA+IDUwKTsKICAgIH07CiAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigic2Nyb2xsIiwgaGFuZGxlU2Nyb2xsLCB7IHBhc3NpdmU6IHRydWUgfSk7CiAgICByZXR1cm4gKCkgPT4gd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoInNjcm9sbCIsIGhhbmRsZVNjcm9sbCk7CiAgfSwgW10pOwoKICByZXR1cm4gKAogICAgPD4KICAgICAgPGhlYWRlcgogICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAiZml4ZWQgdG9wLTAgbGVmdC0wIHJpZ2h0LTAgei00MCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiLAogICAgICAgICAgc2Nyb2xsZWQKICAgICAgICAgICAgPyAiYmctd2hpdGUvOTAgYmFja2Ryb3AtYmx1ci1tZCBzaGFkb3ctc20iCiAgICAgICAgICAgIDogImJnLXRyYW5zcGFyZW50IgogICAgICAgICl9CiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLWN1c3RvbSI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIGgtMjAiPgogICAgICAgICAgICA8TGluayBocmVmPSIvIiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LXhsIHRyYWNraW5nLXdpZGVzdCB0ZXh0LXRleHQiPgogICAgICAgICAgICAgICAgU0xPSQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRleHQtdGV4dC1saWdodCB0cmFja2luZy13aWRlIHVwcGVyY2FzZSI+CiAgICAgICAgICAgICAgICB7Y29tcGFueUluZm8uc3VidGl0bGV9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8L0xpbms+CgogICAgICAgICAgICA8bmF2IGNsYXNzTmFtZT0iaGlkZGVuIGxnOmZsZXggaXRlbXMtY2VudGVyIGdhcC04Ij4KICAgICAgICAgICAgICB7bWFpbk5hdkl0ZW1zLm1hcCgoaXRlbSkgPT4gKAogICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAga2V5PXtpdGVtLmhyZWZ9CiAgICAgICAgICAgICAgICAgIGhyZWY9e2l0ZW0uaHJlZn0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgICAgICAgICAidGV4dC1zbSBmb250LW1lZGl1bSB0cmFja2luZy13aWRlIHRyYW5zaXRpb24tY29sb3JzIiwKICAgICAgICAgICAgICAgICAgICBwYXRobmFtZSA9PT0gaXRlbS5ocmVmCiAgICAgICAgICAgICAgICAgICAgICA/ICJ0ZXh0LWFjY2VudCIKICAgICAgICAgICAgICAgICAgICAgIDogInRleHQtdGV4dCBob3Zlcjp0ZXh0LWFjY2VudCIKICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge2l0ZW0ubGFiZWx9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvbmF2PgoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJwcmltYXJ5IgogICAgICAgICAgICAgICAgc2l6ZT0ic20iCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhpZGRlbiBsZzpmbGV4IgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0T3JkZXJNb2RhbE9wZW4odHJ1ZSl9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAg0J7RgdGC0LDQstC40YLRjCDQt9Cw0Y/QstC60YMKICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImxnOmhpZGRlbiBwLTIgcm91bmRlZC1idXR0b24gaG92ZXI6Ymctc2Vjb25kYXJ5IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0TW9iaWxlTWVudU9wZW4odHJ1ZSl9CiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSLQntGC0LrRgNGL0YLRjCDQvNC10L3RjiIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8TWVudSBjbGFzc05hbWU9InctNiBoLTYgdGV4dC10ZXh0IiAvPgogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2hlYWRlcj4KCiAgICAgIDxNb2JpbGVNZW51CiAgICAgICAgaXNPcGVuPXttb2JpbGVNZW51T3Blbn0KICAgICAgICBvbkNsb3NlPXsoKSA9PiBzZXRNb2JpbGVNZW51T3BlbihmYWxzZSl9CiAgICAgICAgb25PcmRlckNsaWNrPXsoKSA9PiBzZXRPcmRlck1vZGFsT3Blbih0cnVlKX0KICAgICAgLz4KCiAgICAgIDxPcmRlck1vZGFsCiAgICAgICAgaXNPcGVuPXtvcmRlck1vZGFsT3Blbn0KICAgICAgICBvbkNsb3NlPXsoKSA9PiBzZXRPcmRlck1vZGFsT3BlbihmYWxzZSl9CiAgICAgIC8+CiAgICA8Lz4KICApOwp9Cg=="}
+"use client";
+
+import { useState, useEffect } from "react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { Menu } from "lucide-react";
+import { mainNavItems } from "@/data/navigation";
+import { companyInfo } from "@/data/navigation";
+import { Button } from "@/components/ui/Button";
+import { MobileMenu } from "./MobileMenu";
+import { OrderModal } from "@/components/ui/OrderModal";
+import { cn } from "@/lib/utils";
+
+export function Header() {
+  const [scrolled, setScrolled] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [orderModalOpen, setOrderModalOpen] = useState(false);
+  const pathname = usePathname();
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 50);
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  return (
+    <>
+      <header
+        className={cn(
+          "fixed top-0 left-0 right-0 z-40 transition-all duration-300",
+          scrolled
+            ? "bg-white/90 backdrop-blur-md shadow-sm"
+            : "bg-transparent"
+        )}
+      >
+        <div className="container-custom">
+          <div className="flex items-center justify-between h-20">
+            <Link href="/" className="flex flex-col">
+              <span className="font-heading font-bold text-xl tracking-widest text-text">
+                SLOI
+              </span>
+              <span className="text-[10px] text-text-light tracking-wide uppercase">
+                {companyInfo.subtitle}
+              </span>
+            </Link>
+
+            <nav className="hidden lg:flex items-center gap-8">
+              {mainNavItems.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={cn(
+                    "text-sm font-medium tracking-wide transition-colors",
+                    pathname === item.href
+                      ? "text-accent"
+                      : "text-text hover:text-accent"
+                  )}
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </nav>
+
+            <div className="flex items-center gap-4">
+              <Button
+                variant="primary"
+                size="sm"
+                className="hidden lg:flex"
+                onClick={() => setOrderModalOpen(true)}
+              >
+                Оставить заявку
+              </Button>
+              <button
+                className="lg:hidden p-2 rounded-button hover:bg-secondary transition-colors"
+                onClick={() => setMobileMenuOpen(true)}
+                aria-label="Открыть меню"
+              >
+                <Menu className="w-6 h-6 text-text" />
+              </button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <MobileMenu
+        isOpen={mobileMenuOpen}
+        onClose={() => setMobileMenuOpen(false)}
+        onOrderClick={() => setOrderModalOpen(true)}
+      />
+
+      <OrderModal
+        isOpen={orderModalOpen}
+        onClose={() => setOrderModalOpen(false)}
+      />
+    </>
+  );
+}

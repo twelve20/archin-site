@@ -1,1 +1,72 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgZm9yd2FyZFJlZiwgSW5wdXRIVE1MQXR0cmlidXRlcywgVGV4dGFyZWFIVE1MQXR0cmlidXRlcyB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgSW5wdXRQcm9wcyBleHRlbmRzIElucHV0SFRNTEF0dHJpYnV0ZXM8SFRNTElucHV0RWxlbWVudD4gewogIGxhYmVsPzogc3RyaW5nOwogIGVycm9yPzogc3RyaW5nOwp9CgpleHBvcnQgY29uc3QgSW5wdXQgPSBmb3J3YXJkUmVmPEhUTUxJbnB1dEVsZW1lbnQsIElucHV0UHJvcHM+KAogICh7IGNsYXNzTmFtZSwgbGFiZWwsIGVycm9yLCAuLi5wcm9wcyB9LCByZWYpID0+IHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAge2xhYmVsICYmICgKICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC10ZXh0Ij4KICAgICAgICAgICAge2xhYmVsfQogICAgICAgICAgICB7cHJvcHMucmVxdWlyZWQgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCBtbC0xIj4qPC9zcGFuPn0KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgKX0KICAgICAgICA8aW5wdXQKICAgICAgICAgIHJlZj17cmVmfQogICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgInctZnVsbCBweC00IHB5LTMgcm91bmRlZC1idXR0b24gYm9yZGVyIGJnLXdhcm0gdGV4dC10ZXh0IHBsYWNlaG9sZGVyOnRleHQtdGV4dC1tdXRlZCIsCiAgICAgICAgICAgICJ0cmFuc2l0aW9uLWNvbG9ycyBkdXJhdGlvbi0yMDAiLAogICAgICAgICAgICAiZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOnJpbmctMiBmb2N1czpyaW5nLWFjY2VudC8yMCBmb2N1czpib3JkZXItYWNjZW50IiwKICAgICAgICAgICAgZXJyb3IgPyAiYm9yZGVyLXJlZC00MDAiIDogImJvcmRlci1ib3JkZXIiLAogICAgICAgICAgICBjbGFzc05hbWUKICAgICAgICAgICl9CiAgICAgICAgICB7Li4ucHJvcHN9CiAgICAgICAgLz4KICAgICAgICB7ZXJyb3IgJiYgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtcmVkLTUwMCI+e2Vycm9yfTwvcD59CiAgICAgIDwvZGl2PgogICAgKTsKICB9Cik7CgpJbnB1dC5kaXNwbGF5TmFtZSA9ICJJbnB1dCI7CgppbnRlcmZhY2UgVGV4dGFyZWFQcm9wcyBleHRlbmRzIFRleHRhcmVhSFRNTEF0dHJpYnV0ZXM8SFRNTFRleHRBcmVhRWxlbWVudD4gewogIGxhYmVsPzogc3RyaW5nOwogIGVycm9yPzogc3RyaW5nOwp9CgpleHBvcnQgY29uc3QgVGV4dGFyZWEgPSBmb3J3YXJkUmVmPEhUTUxUZXh0QXJlYUVsZW1lbnQsIFRleHRhcmVhUHJvcHM+KAogICh7IGNsYXNzTmFtZSwgbGFiZWwsIGVycm9yLCAuLi5wcm9wcyB9LCByZWYpID0+IHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAge2xhYmVsICYmICgKICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC10ZXh0Ij4KICAgICAgICAgICAge2xhYmVsfQogICAgICAgICAgICB7cHJvcHMucmVxdWlyZWQgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCBtbC0xIj4qPC9zcGFuPn0KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgKX0KICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgIHJlZj17cmVmfQogICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgInctZnVsbCBweC00IHB5LTMgcm91bmRlZC1idXR0b24gYm9yZGVyIGJnLXdhcm0gdGV4dC10ZXh0IHBsYWNlaG9sZGVyOnRleHQtdGV4dC1tdXRlZCByZXNpemUteSBtaW4taC1bMTAwcHhdIiwKICAgICAgICAgICAgInRyYW5zaXRpb24tY29sb3JzIGR1cmF0aW9uLTIwMCIsCiAgICAgICAgICAgICJmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6cmluZy0yIGZvY3VzOnJpbmctYWNjZW50LzIwIGZvY3VzOmJvcmRlci1hY2NlbnQiLAogICAgICAgICAgICBlcnJvciA/ICJib3JkZXItcmVkLTQwMCIgOiAiYm9yZGVyLWJvcmRlciIsCiAgICAgICAgICAgIGNsYXNzTmFtZQogICAgICAgICAgKX0KICAgICAgICAgIHsuLi5wcm9wc30KICAgICAgICAvPgogICAgICAgIHtlcnJvciAmJiA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1yZWQtNTAwIj57ZXJyb3J9PC9wPn0KICAgICAgPC9kaXY+CiAgICApOwogIH0KKTsKClRleHRhcmVhLmRpc3BsYXlOYW1lID0gIlRleHRhcmVhIjsK"}
+"use client";
+
+import { forwardRef, InputHTMLAttributes, TextareaHTMLAttributes } from "react";
+import { cn } from "@/lib/utils";
+
+interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
+  label?: string;
+  error?: string;
+}
+
+export const Input = forwardRef<HTMLInputElement, InputProps>(
+  ({ className, label, error, ...props }, ref) => {
+    return (
+      <div className="space-y-1.5">
+        {label && (
+          <label className="block text-sm font-medium text-text">
+            {label}
+            {props.required && <span className="text-accent ml-1">*</span>}
+          </label>
+        )}
+        <input
+          ref={ref}
+          className={cn(
+            "w-full px-4 py-3 rounded-button border bg-warm text-text placeholder:text-text-muted",
+            "transition-colors duration-200",
+            "focus:outline-none focus:ring-2 focus:ring-accent/20 focus:border-accent",
+            error ? "border-red-400" : "border-border",
+            className
+          )}
+          {...props}
+        />
+        {error && <p className="text-sm text-red-500">{error}</p>}
+      </div>
+    );
+  }
+);
+
+Input.displayName = "Input";
+
+interface TextareaProps extends TextareaHTMLAttributes<HTMLTextAreaElement> {
+  label?: string;
+  error?: string;
+}
+
+export const Textarea = forwardRef<HTMLTextAreaElement, TextareaProps>(
+  ({ className, label, error, ...props }, ref) => {
+    return (
+      <div className="space-y-1.5">
+        {label && (
+          <label className="block text-sm font-medium text-text">
+            {label}
+            {props.required && <span className="text-accent ml-1">*</span>}
+          </label>
+        )}
+        <textarea
+          ref={ref}
+          className={cn(
+            "w-full px-4 py-3 rounded-button border bg-warm text-text placeholder:text-text-muted resize-y min-h-[100px]",
+            "transition-colors duration-200",
+            "focus:outline-none focus:ring-2 focus:ring-accent/20 focus:border-accent",
+            error ? "border-red-400" : "border-border",
+            className
+          )}
+          {...props}
+        />
+        {error && <p className="text-sm text-red-500">{error}</p>}
+      </div>
+    );
+  }
+);
+
+Textarea.displayName = "Textarea";

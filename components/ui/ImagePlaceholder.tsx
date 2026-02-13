@@ -1,1 +1,76 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCB7CiAgTGF5ZXJzLAogIFBhaW50QnVja2V0LAogIFBhbGV0dGUsCiAgUGFpbnRicnVzaCwKICBEcm9wbGV0cywKICBHcmlkM1gzLAogIFNoaWVsZENoZWNrLAogIFBhY2thZ2UsCn0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IGljb25NYXA6IFJlY29yZDxzdHJpbmcsIFJlYWN0LkNvbXBvbmVudFR5cGU8eyBjbGFzc05hbWU/OiBzdHJpbmcgfT4+ID0gewogIExheWVycywKICBQYWludEJ1Y2tldCwKICBQYWxldHRlLAogIFBhaW50YnJ1c2gsCiAgRHJvcGxldHMsCiAgR3JpZDNYMywKICBTaGllbGRDaGVjaywKICBQYWNrYWdlLAp9OwoKaW50ZXJmYWNlIEltYWdlUGxhY2Vob2xkZXJQcm9wcyB7CiAgZ3JhZGllbnRGcm9tPzogc3RyaW5nOwogIGdyYWRpZW50VG8/OiBzdHJpbmc7CiAgaWNvbj86IHN0cmluZzsKICBzaXplPzogInNtIiB8ICJtZCIgfCAibGciOwogIGNsYXNzTmFtZT86IHN0cmluZzsKfQoKZXhwb3J0IGZ1bmN0aW9uIEltYWdlUGxhY2Vob2xkZXIoewogIGdyYWRpZW50RnJvbSA9ICIjRDRBNTc0IiwKICBncmFkaWVudFRvID0gIiNDNDVBM0MiLAogIGljb24gPSAiUGFja2FnZSIsCiAgc2l6ZSA9ICJtZCIsCiAgY2xhc3NOYW1lLAp9OiBJbWFnZVBsYWNlaG9sZGVyUHJvcHMpIHsKICBjb25zdCBJY29uID0gaWNvbk1hcFtpY29uXSB8fCBQYWNrYWdlOwoKICBjb25zdCBzaXplcyA9IHsKICAgIHNtOiAiaC00MCIsCiAgICBtZDogImgtNTYiLAogICAgbGc6ICJoLTcyIG1kOmgtODAiLAogIH07CgogIGNvbnN0IGljb25TaXplcyA9IHsKICAgIHNtOiAidy0xMCBoLTEwIiwKICAgIG1kOiAidy0xNCBoLTE0IiwKICAgIGxnOiAidy0yMCBoLTIwIiwKICB9OwoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJyZWxhdGl2ZSB3LWZ1bGwgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgb3ZlcmZsb3ctaGlkZGVuIiwKICAgICAgICBzaXplc1tzaXplXSwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgc3R5bGU9e3sKICAgICAgICBiYWNrZ3JvdW5kOiBgbGluZWFyLWdyYWRpZW50KDEzNWRlZywgJHtncmFkaWVudEZyb219IDAlLCAke2dyYWRpZW50VG99IDEwMCUpYCwKICAgICAgfX0KICAgID4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgb3BhY2l0eS0xMCI+CiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYmFja2dyb3VuZEltYWdlOiBgcmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCAyMCUgNTAlLCByZ2JhKDI1NSwyNTUsMjU1LDAuMikgMCUsIHRyYW5zcGFyZW50IDUwJSksCiAgICAgICAgICAgICAgcmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCA4MCUgMjAlLCByZ2JhKDI1NSwyNTUsMjU1LDAuMTUpIDAlLCB0cmFuc3BhcmVudCA0MCUpYCwKICAgICAgICAgIH19CiAgICAgICAgLz4KICAgICAgPC9kaXY+CiAgICAgIDxJY29uIGNsYXNzTmFtZT17Y24oInRleHQtd2hpdGUvNjAiLCBpY29uU2l6ZXNbc2l6ZV0pfSAvPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { cn } from "@/lib/utils";
+import {
+  Layers,
+  PaintBucket,
+  Palette,
+  Paintbrush,
+  Droplets,
+  Grid3X3,
+  ShieldCheck,
+  Package,
+} from "lucide-react";
+
+const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
+  Layers,
+  PaintBucket,
+  Palette,
+  Paintbrush,
+  Droplets,
+  Grid3X3,
+  ShieldCheck,
+  Package,
+};
+
+interface ImagePlaceholderProps {
+  gradientFrom?: string;
+  gradientTo?: string;
+  icon?: string;
+  size?: "sm" | "md" | "lg";
+  className?: string;
+}
+
+export function ImagePlaceholder({
+  gradientFrom = "#D4A574",
+  gradientTo = "#C45A3C",
+  icon = "Package",
+  size = "md",
+  className,
+}: ImagePlaceholderProps) {
+  const Icon = iconMap[icon] || Package;
+
+  const sizes = {
+    sm: "h-40",
+    md: "h-56",
+    lg: "h-72 md:h-80",
+  };
+
+  const iconSizes = {
+    sm: "w-10 h-10",
+    md: "w-14 h-14",
+    lg: "w-20 h-20",
+  };
+
+  return (
+    <div
+      className={cn(
+        "relative w-full flex items-center justify-center overflow-hidden",
+        sizes[size],
+        className
+      )}
+      style={{
+        background: `linear-gradient(135deg, ${gradientFrom} 0%, ${gradientTo} 100%)`,
+      }}
+    >
+      <div className="absolute inset-0 opacity-10">
+        <div
+          className="absolute inset-0"
+          style={{
+            backgroundImage: `radial-gradient(circle at 20% 50%, rgba(255,255,255,0.2) 0%, transparent 50%),
+              radial-gradient(circle at 80% 20%, rgba(255,255,255,0.15) 0%, transparent 40%)`,
+          }}
+        />
+      </div>
+      <Icon className={cn("text-white/60", iconSizes[size])} />
+    </div>
+  );
+}

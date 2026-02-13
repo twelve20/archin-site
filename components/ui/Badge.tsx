@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgQmFkZ2VQcm9wcyB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKICB2YXJpYW50PzogImRlZmF1bHQiIHwgImFjY2VudCIgfCAibmV3IjsKICBjbGFzc05hbWU/OiBzdHJpbmc7Cn0KCmV4cG9ydCBmdW5jdGlvbiBCYWRnZSh7IGNoaWxkcmVuLCB2YXJpYW50ID0gImRlZmF1bHQiLCBjbGFzc05hbWUgfTogQmFkZ2VQcm9wcykgewogIGNvbnN0IHZhcmlhbnRzID0gewogICAgZGVmYXVsdDogImJnLXNlY29uZGFyeSB0ZXh0LXRleHQtbGlnaHQiLAogICAgYWNjZW50OiAiYmctYWNjZW50IHRleHQtd2hpdGUiLAogICAgbmV3OiAiYmctZW1lcmFsZC01MDAgdGV4dC13aGl0ZSIsCiAgfTsKCiAgcmV0dXJuICgKICAgIDxzcGFuCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImlubGluZS1ibG9jayBweC0zIHB5LTEgdGV4dC14cyBmb250LW1lZGl1bSByb3VuZGVkLWZ1bGwgdHJhY2tpbmctd2lkZSIsCiAgICAgICAgdmFyaWFudHNbdmFyaWFudF0sCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvc3Bhbj4KICApOwp9Cg=="}
+import { cn } from "@/lib/utils";
+
+interface BadgeProps {
+  children: React.ReactNode;
+  variant?: "default" | "accent" | "new";
+  className?: string;
+}
+
+export function Badge({ children, variant = "default", className }: BadgeProps) {
+  const variants = {
+    default: "bg-secondary text-text-light",
+    accent: "bg-accent text-white",
+    new: "bg-emerald-500 text-white",
+  };
+
+  return (
+    <span
+      className={cn(
+        "inline-block px-3 py-1 text-xs font-medium rounded-full tracking-wide",
+        variants[variant],
+        className
+      )}
+    >
+      {children}
+    </span>
+  );
+}

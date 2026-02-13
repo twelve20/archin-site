@@ -1,1 +1,57 @@
-{"data":"aW1wb3J0IHsgUGhvbmUsIENsb2NrIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQW5pbWF0ZU9uU2Nyb2xsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0FuaW1hdGVPblNjcm9sbCI7CmltcG9ydCB7IENvbnRhY3RGb3JtIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0NvbnRhY3RGb3JtIjsKaW1wb3J0IHsgY29tcGFueUluZm8gfSBmcm9tICJAL2RhdGEvbmF2aWdhdGlvbiI7CgpleHBvcnQgZnVuY3Rpb24gQ1RBU2VjdGlvbigpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9ImNvbnRhY3RzIiBjbGFzc05hbWU9InJlbGF0aXZlIHB5LTIwIG1kOnB5LTI4IG92ZXJmbG93LWhpZGRlbiI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLXByaW1hcnkiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBvcGFjaXR5LTQwIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYmFja2dyb3VuZEltYWdlOiBgCiAgICAgICAgICAgICAgcmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCAxMCUgNTAlLCByZ2JhKDE5NiwgOTAsIDYwLCAwLjI1KSAwJSwgdHJhbnNwYXJlbnQgNTAlKSwKICAgICAgICAgICAgICByYWRpYWwtZ3JhZGllbnQoY2lyY2xlIGF0IDkwJSAzMCUsIHJnYmEoMTk2LCA5MCwgNjAsIDAuMTUpIDAlLCB0cmFuc3BhcmVudCA1MCUpCiAgICAgICAgICAgIGAsCiAgICAgICAgICB9fQogICAgICAgIC8+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lci1jdXN0b20gcmVsYXRpdmUgei0xMCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgbGc6Z3JpZC1jb2xzLTIgZ2FwLTEyIGxnOmdhcC0xNiBpdGVtcy1jZW50ZXIiPgogICAgICAgICAgey8qIFRleHQgKi99CiAgICAgICAgICA8QW5pbWF0ZU9uU2Nyb2xsPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtM3hsIG1kOnRleHQtNHhsIGxnOnRleHQtWzQycHhdIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC13aGl0ZSBsZWFkaW5nLXRpZ2h0IG1iLTQiPgogICAgICAgICAgICAgICAg0J3Rg9C20L3QsCDQutC+0L3RgdGD0LvRjNGC0LDRhtC40Y8g0L/QviDQstGL0LHQvtGA0YMg0LzQsNGC0LXRgNC40LDQu9C+0LI/CiAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2FybS83MCB0ZXh0LWxnIG1iLTggbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICAgINCe0YHRgtCw0LLRjNGC0LUg0LfQsNGP0LLQutGDLCDQuCDQvdCw0Ygg0YHQv9C10YbQuNCw0LvQuNGB0YIg0L/QvtC80L7QttC10YIg0L/QvtC00L7QsdGA0LDRgtGMINC+0L/RgtC40LzQsNC70YzQvdC+0LUKICAgICAgICAgICAgICAgINGA0LXRiNC10L3QuNC1INC00LvRjyDQstCw0YjQtdCz0L4g0L/RgNC+0LXQutGC0LAKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICBocmVmPXtgdGVsOiR7Y29tcGFueUluZm8ucGhvbmUucmVwbGFjZSgvXHMvZywgIiIpfWB9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgdGV4dC13YXJtLzgwIGhvdmVyOnRleHQtYWNjZW50IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8UGhvbmUgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57Y29tcGFueUluZm8ucGhvbmV9PC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHRleHQtd2FybS82MCI+CiAgICAgICAgICAgICAgICAgIDxDbG9jayBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgICAgICAgIDxzcGFuPntjb21wYW55SW5mby53b3JraW5nSG91cnN9PC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9BbmltYXRlT25TY3JvbGw+CgogICAgICAgICAgey8qIEZvcm0gKi99CiAgICAgICAgICA8QW5pbWF0ZU9uU2Nyb2xsIGRlbGF5PXswLjJ9IGRpcmVjdGlvbj0icmlnaHQiPgogICAgICAgICAgICA8Q29udGFjdEZvcm0gLz4KICAgICAgICAgIDwvQW5pbWF0ZU9uU2Nyb2xsPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg=="}
+import { Phone, Clock } from "lucide-react";
+import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
+import { ContactForm } from "@/components/ui/ContactForm";
+import { companyInfo } from "@/data/navigation";
+
+export function CTASection() {
+  return (
+    <section id="contacts" className="relative py-20 md:py-28 overflow-hidden">
+      <div className="absolute inset-0 bg-primary">
+        <div
+          className="absolute inset-0 opacity-40"
+          style={{
+            backgroundImage: `
+              radial-gradient(circle at 10% 50%, rgba(196, 90, 60, 0.25) 0%, transparent 50%),
+              radial-gradient(circle at 90% 30%, rgba(196, 90, 60, 0.15) 0%, transparent 50%)
+            `,
+          }}
+        />
+      </div>
+
+      <div className="container-custom relative z-10">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          {/* Text */}
+          <AnimateOnScroll>
+            <div>
+              <h2 className="text-3xl md:text-4xl lg:text-[42px] font-heading font-bold text-white leading-tight mb-4">
+                Нужна консультация по выбору материалов?
+              </h2>
+              <p className="text-warm/70 text-lg mb-8 leading-relaxed">
+                Оставьте заявку, и наш специалист поможет подобрать оптимальное
+                решение для вашего проекта
+              </p>
+              <div className="space-y-3">
+                <a
+                  href={`tel:${companyInfo.phone.replace(/\s/g, "")}`}
+                  className="flex items-center gap-3 text-warm/80 hover:text-accent transition-colors"
+                >
+                  <Phone className="w-5 h-5" />
+                  <span className="font-medium">{companyInfo.phone}</span>
+                </a>
+                <div className="flex items-center gap-3 text-warm/60">
+                  <Clock className="w-5 h-5" />
+                  <span>{companyInfo.workingHours}</span>
+                </div>
+              </div>
+            </div>
+          </AnimateOnScroll>
+
+          {/* Form */}
+          <AnimateOnScroll delay={0.2} direction="right">
+            <ContactForm />
+          </AnimateOnScroll>
+        </div>
+      </div>
+    </section>
+  );
+}

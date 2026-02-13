@@ -1,1 +1,98 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBtb3Rpb24sIEFuaW1hdGVQcmVzZW5jZSB9IGZyb20gImZyYW1lci1tb3Rpb24iOwppbXBvcnQgeyBYLCBQaG9uZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCBMaW5rIGZyb20gIm5leHQvbGluayI7CmltcG9ydCB7IG1haW5OYXZJdGVtcyB9IGZyb20gIkAvZGF0YS9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgY29tcGFueUluZm8gfSBmcm9tICJAL2RhdGEvbmF2aWdhdGlvbiI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9CdXR0b24iOwoKaW50ZXJmYWNlIE1vYmlsZU1lbnVQcm9wcyB7CiAgaXNPcGVuOiBib29sZWFuOwogIG9uQ2xvc2U6ICgpID0+IHZvaWQ7CiAgb25PcmRlckNsaWNrOiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgZnVuY3Rpb24gTW9iaWxlTWVudSh7IGlzT3Blbiwgb25DbG9zZSwgb25PcmRlckNsaWNrIH06IE1vYmlsZU1lbnVQcm9wcykgewogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoaXNPcGVuKSB7CiAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUub3ZlcmZsb3cgPSAiaGlkZGVuIjsKICAgIH0KICAgIHJldHVybiAoKSA9PiB7CiAgICAgIGRvY3VtZW50LmJvZHkuc3R5bGUub3ZlcmZsb3cgPSAiIjsKICAgIH07CiAgfSwgW2lzT3Blbl0pOwoKICByZXR1cm4gKAogICAgPEFuaW1hdGVQcmVzZW5jZT4KICAgICAge2lzT3BlbiAmJiAoCiAgICAgICAgPD4KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0KICAgICAgICAgICAgZXhpdD17eyBvcGFjaXR5OiAwIH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZml4ZWQgaW5zZXQtMCBiZy1ibGFjay81MCB6LTQwIGxnOmhpZGRlbiIKICAgICAgICAgICAgb25DbGljaz17b25DbG9zZX0KICAgICAgICAgIC8+CiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IHg6ICIxMDAlIiB9fQogICAgICAgICAgICBhbmltYXRlPXt7IHg6IDAgfX0KICAgICAgICAgICAgZXhpdD17eyB4OiAiMTAwJSIgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyB0eXBlOiAic3ByaW5nIiwgZGFtcGluZzogMzAsIHN0aWZmbmVzczogMzAwIH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZml4ZWQgcmlnaHQtMCB0b3AtMCBib3R0b20tMCB3LVs4NSVdIG1heC13LXNtIGJnLXdoaXRlIHotNTAgZmxleCBmbGV4LWNvbCBsZzpoaWRkZW4iCiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcC02IGJvcmRlci1iIGJvcmRlci1ib3JkZXIiPgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LWxnIHRyYWNraW5nLXdpZGVzdCB0ZXh0LXRleHQiPgogICAgICAgICAgICAgICAgICBTTE9JCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtdGV4dC1saWdodCI+e2NvbXBhbnlJbmZvLnN1YnRpdGxlfTwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InAtMiByb3VuZGVkLWZ1bGwgaG92ZXI6Ymctc2Vjb25kYXJ5IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0i0JfQsNC60YDRi9GC0Ywg0LzQtdC90Y4iCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPFggY2xhc3NOYW1lPSJ3LTYgaC02IiAvPgogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxuYXYgY2xhc3NOYW1lPSJmbGV4LTEgcHktNiI+CiAgICAgICAgICAgICAge21haW5OYXZJdGVtcy5tYXAoKGl0ZW0pID0+ICgKICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgIGtleT17aXRlbS5ocmVmfQogICAgICAgICAgICAgICAgICBocmVmPXtpdGVtLmhyZWZ9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgcHgtNiBweS00IHRleHQtbGcgZm9udC1tZWRpdW0gdGV4dC10ZXh0IGhvdmVyOnRleHQtYWNjZW50IGhvdmVyOmJnLXNlY29uZGFyeS81MCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge2l0ZW0ubGFiZWx9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvbmF2PgoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InAtNiBib3JkZXItdCBib3JkZXItYm9yZGVyIHNwYWNlLXktNCI+CiAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgIGhyZWY9e2B0ZWw6JHtjb21wYW55SW5mby5waG9uZS5yZXBsYWNlKC9ccy9nLCAiIil9YH0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgdGV4dC10ZXh0IGhvdmVyOnRleHQtYWNjZW50IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxQaG9uZSBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57Y29tcGFueUluZm8ucGhvbmV9PC9zcGFuPgogICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJwcmltYXJ5IgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwiCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgIG9uQ2xvc2UoKTsKICAgICAgICAgICAgICAgICAgb25PcmRlckNsaWNrKCk7CiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgINCe0YHRgtCw0LLQuNGC0Ywg0LfQsNGP0LLQutGDCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgIDwvPgogICAgICApfQogICAgPC9BbmltYXRlUHJlc2VuY2U+CiAgKTsKfQo="}
+"use client";
+
+import { useEffect } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { X, Phone } from "lucide-react";
+import Link from "next/link";
+import { mainNavItems } from "@/data/navigation";
+import { companyInfo } from "@/data/navigation";
+import { Button } from "@/components/ui/Button";
+
+interface MobileMenuProps {
+  isOpen: boolean;
+  onClose: () => void;
+  onOrderClick: () => void;
+}
+
+export function MobileMenu({ isOpen, onClose, onOrderClick }: MobileMenuProps) {
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = "hidden";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
+
+  return (
+    <AnimatePresence>
+      {isOpen && (
+        <>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 bg-black/50 z-40 lg:hidden"
+            onClick={onClose}
+          />
+          <motion.div
+            initial={{ x: "100%" }}
+            animate={{ x: 0 }}
+            exit={{ x: "100%" }}
+            transition={{ type: "spring", damping: 30, stiffness: 300 }}
+            className="fixed right-0 top-0 bottom-0 w-[85%] max-w-sm bg-white z-50 flex flex-col lg:hidden"
+          >
+            <div className="flex items-center justify-between p-6 border-b border-border">
+              <div>
+                <div className="font-heading font-bold text-lg tracking-widest text-text">
+                  SLOI
+                </div>
+                <div className="text-xs text-text-light">{companyInfo.subtitle}</div>
+              </div>
+              <button
+                onClick={onClose}
+                className="p-2 rounded-full hover:bg-secondary transition-colors"
+                aria-label="Закрыть меню"
+              >
+                <X className="w-6 h-6" />
+              </button>
+            </div>
+
+            <nav className="flex-1 py-6">
+              {mainNavItems.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  onClick={onClose}
+                  className="block px-6 py-4 text-lg font-medium text-text hover:text-accent hover:bg-secondary/50 transition-colors"
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </nav>
+
+            <div className="p-6 border-t border-border space-y-4">
+              <a
+                href={`tel:${companyInfo.phone.replace(/\s/g, "")}`}
+                className="flex items-center gap-3 text-text hover:text-accent transition-colors"
+              >
+                <Phone className="w-5 h-5" />
+                <span className="font-medium">{companyInfo.phone}</span>
+              </a>
+              <Button
+                variant="primary"
+                className="w-full"
+                onClick={() => {
+                  onClose();
+                  onOrderClick();
+                }}
+              >
+                Оставить заявку
+              </Button>
+            </div>
+          </motion.div>
+        </>
+      )}
+    </AnimatePresence>
+  );
+}

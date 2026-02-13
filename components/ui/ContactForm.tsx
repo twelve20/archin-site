@@ -1,1 +1,81 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZUZvcm0gfSBmcm9tICJyZWFjdC1ob29rLWZvcm0iOwppbXBvcnQgeyB6b2RSZXNvbHZlciB9IGZyb20gIkBob29rZm9ybS9yZXNvbHZlcnMvem9kIjsKaW1wb3J0IHsgQ2hlY2tDaXJjbGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICIuL0J1dHRvbiI7CmltcG9ydCB7IGNvbnRhY3RGb3JtU2NoZW1hLCB0eXBlIENvbnRhY3RGb3JtVmFsdWVzIH0gZnJvbSAiQC9saWIvdmFsaWRhdGlvbiI7CgpleHBvcnQgZnVuY3Rpb24gQ29udGFjdEZvcm0oKSB7CiAgY29uc3QgW3N1Ym1pdHRlZCwgc2V0U3VibWl0dGVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgewogICAgcmVnaXN0ZXIsCiAgICBoYW5kbGVTdWJtaXQsCiAgICBmb3JtU3RhdGU6IHsgZXJyb3JzLCBpc1N1Ym1pdHRpbmcgfSwKICAgIHJlc2V0LAogIH0gPSB1c2VGb3JtPENvbnRhY3RGb3JtVmFsdWVzPih7CiAgICByZXNvbHZlcjogem9kUmVzb2x2ZXIoY29udGFjdEZvcm1TY2hlbWEpLAogIH0pOwoKICBjb25zdCBvblN1Ym1pdCA9IGFzeW5jIChkYXRhOiBDb250YWN0Rm9ybVZhbHVlcykgPT4gewogICAgYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMTUwMCkpOwogICAgY29uc29sZS5sb2coIkNvbnRhY3QgZm9ybSBzdWJtaXR0ZWQ6IiwgZGF0YSk7CiAgICBzZXRTdWJtaXR0ZWQodHJ1ZSk7CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgcmVzZXQoKTsKICAgICAgc2V0U3VibWl0dGVkKGZhbHNlKTsKICAgIH0sIDQwMDApOwogIH07CgogIGlmIChzdWJtaXR0ZWQpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBiZy13aGl0ZS8xMCByb3VuZGVkLWNhcmQgcC02Ij4KICAgICAgICA8Q2hlY2tDaXJjbGUgY2xhc3NOYW1lPSJ3LTggaC04IHRleHQtZW1lcmFsZC00MDAgc2hyaW5rLTAiIC8+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj7Ql9Cw0Y/QstC60LAg0L7RgtC/0YDQsNCy0LvQtdC90LAhPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2FybS83MCI+CiAgICAgICAgICAgINCc0Ysg0YHQstGP0LbQtdC80YHRjyDRgSDQstCw0LzQuCDQsiDQsdC70LjQttCw0LnRiNC10LUg0LLRgNC10LzRjwogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPGZvcm0gb25TdWJtaXQ9e2hhbmRsZVN1Ym1pdChvblN1Ym1pdCl9IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgZ2FwLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgcGxhY2Vob2xkZXI9ItCS0LDRiNC1INC40LzRjyAqIgogICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBweC00IHB5LTMgcm91bmRlZC1idXR0b24gYmctd2hpdGUvMTAgYm9yZGVyIGJvcmRlci13aGl0ZS8yMCB0ZXh0LXdoaXRlIHBsYWNlaG9sZGVyOnRleHQtd2FybS81MCBmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWFjY2VudCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgey4uLnJlZ2lzdGVyKCJuYW1lIil9CiAgICAgICAgICAvPgogICAgICAgICAge2Vycm9ycy5uYW1lICYmICgKICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtcmVkLTQwMCI+e2Vycm9ycy5uYW1lLm1lc3NhZ2V9PC9wPgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0xLjUiPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHR5cGU9InRlbCIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9ItCi0LXQu9C10YTQvtC9ICoiCiAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHB4LTQgcHktMyByb3VuZGVkLWJ1dHRvbiBiZy13aGl0ZS8xMCBib3JkZXIgYm9yZGVyLXdoaXRlLzIwIHRleHQtd2hpdGUgcGxhY2Vob2xkZXI6dGV4dC13YXJtLzUwIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpib3JkZXItYWNjZW50IHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICB7Li4ucmVnaXN0ZXIoInBob25lIil9CiAgICAgICAgICAvPgogICAgICAgICAge2Vycm9ycy5waG9uZSAmJiAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXJlZC00MDAiPntlcnJvcnMucGhvbmUubWVzc2FnZX08L3A+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPEJ1dHRvbgogICAgICAgIHR5cGU9InN1Ym1pdCIKICAgICAgICB2YXJpYW50PSJwcmltYXJ5IgogICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHNtOnctYXV0byIKICAgICAgICBsb2FkaW5nPXtpc1N1Ym1pdHRpbmd9CiAgICAgID4KICAgICAgICDQntGC0L/RgNCw0LLQuNGC0Ywg0LfQsNGP0LLQutGDCiAgICAgIDwvQnV0dG9uPgogICAgPC9mb3JtPgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+import { useForm } from "react-hook-form";
+import { zodResolver } from "@hookform/resolvers/zod";
+import { CheckCircle } from "lucide-react";
+import { Button } from "./Button";
+import { contactFormSchema, type ContactFormValues } from "@/lib/validation";
+
+export function ContactForm() {
+  const [submitted, setSubmitted] = useState(false);
+
+  const {
+    register,
+    handleSubmit,
+    formState: { errors, isSubmitting },
+    reset,
+  } = useForm<ContactFormValues>({
+    resolver: zodResolver(contactFormSchema),
+  });
+
+  const onSubmit = async (data: ContactFormValues) => {
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+    console.log("Contact form submitted:", data);
+    setSubmitted(true);
+    setTimeout(() => {
+      reset();
+      setSubmitted(false);
+    }, 4000);
+  };
+
+  if (submitted) {
+    return (
+      <div className="flex items-center gap-3 bg-white/10 rounded-card p-6">
+        <CheckCircle className="w-8 h-8 text-emerald-400 shrink-0" />
+        <div>
+          <p className="font-semibold text-white">Заявка отправлена!</p>
+          <p className="text-sm text-warm/70">
+            Мы свяжемся с вами в ближайшее время
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div className="space-y-1.5">
+          <input
+            placeholder="Ваше имя *"
+            className="w-full px-4 py-3 rounded-button bg-white/10 border border-white/20 text-white placeholder:text-warm/50 focus:outline-none focus:border-accent transition-colors"
+            {...register("name")}
+          />
+          {errors.name && (
+            <p className="text-sm text-red-400">{errors.name.message}</p>
+          )}
+        </div>
+        <div className="space-y-1.5">
+          <input
+            type="tel"
+            placeholder="Телефон *"
+            className="w-full px-4 py-3 rounded-button bg-white/10 border border-white/20 text-white placeholder:text-warm/50 focus:outline-none focus:border-accent transition-colors"
+            {...register("phone")}
+          />
+          {errors.phone && (
+            <p className="text-sm text-red-400">{errors.phone.message}</p>
+          )}
+        </div>
+      </div>
+      <Button
+        type="submit"
+        variant="primary"
+        className="w-full sm:w-auto"
+        loading={isSubmitting}
+      >
+        Отправить заявку
+      </Button>
+    </form>
+  );
+}

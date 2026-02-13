@@ -1,1 +1,106 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEltYWdlIGZyb20gIm5leHQvaW1hZ2UiOwppbXBvcnQgeyBDaGVja0NpcmNsZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IFNlY3Rpb25IZWFkaW5nIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL1NlY3Rpb25IZWFkaW5nIjsKaW1wb3J0IHsgQW5pbWF0ZU9uU2Nyb2xsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0FuaW1hdGVPblNjcm9sbCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9CdXR0b24iOwoKY29uc3QgZmFjdHMgPSBbCiAgItCh0L7QsdGB0YLQstC10L3QvdGL0Lkg0LfQsNCy0L7QtCDQsiDQoNCw0LzQtdC90YHQutC+0Lwg0YDQsNC50L7QvdC1INCc0L7RgdC60L7QstGB0LrQvtC5INC+0LHQu9Cw0YHRgtC4IiwKICAiUiZEINGG0LXQvdGC0YAg0LIg0JzQvtGB0LrQstC1LCDRgNC10LfQuNC00LXQvdGCINCk0L7QvdC00LAg0KHQutC+0LvQutC+0LLQviIsCiAgItCS0YHRjyDQv9GA0L7QtNGD0LrRhtC40Y8g0YHQtdGA0YLQuNGE0LjRhtC40YDQvtCy0LDQvdCwOiDQtNC10LrQu9Cw0YDQsNGG0LjQuCDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8sINCh0JPQoCwg0Y3QutGB0L/QtdGA0YLQvdGL0LUg0LfQsNC60LvRjtGH0LXQvdC40Y8iLAogICLQlNC40LvQtdGA0YHQutCw0Y8g0YHQtdGC0Ywg4oCUIDIwKyDQv9Cw0YDRgtC90ZHRgNC+0LIg0LIg0JzQvtGB0LrQstC1INC4INGA0LXQs9C40L7QvdCw0YUiLApdOwoKY29uc3Qgc3RhdHMgPSBbCiAgeyB2YWx1ZTogIjMxIiwgbGFiZWw6ICLQv9GA0L7QtNGD0LrRgiIgfSwKICB7IHZhbHVlOiAiNyIsIGxhYmVsOiAi0LrQsNGC0LXQs9C+0YDQuNC5IiB9LAogIHsgdmFsdWU6ICIyMCsiLCBsYWJlbDogItC00LjQu9C10YDQvtCyIiB9LApdOwoKZXhwb3J0IGZ1bmN0aW9uIEFib3V0QnJhbmQoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJhYm91dCIgY2xhc3NOYW1lPSJzZWN0aW9uLXBhZGRpbmcgYmctc2Vjb25kYXJ5Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lci1jdXN0b20iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0xIGxnOmdyaWQtY29scy0yIGdhcC0xMiBsZzpnYXAtMTYgaXRlbXMtY2VudGVyIj4KICAgICAgICAgIHsvKiBUZXh0ICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPFNlY3Rpb25IZWFkaW5nCiAgICAgICAgICAgICAgdGl0bGU9ItCeINCx0YDQtdC90LTQtSBBcmNoaW4iCiAgICAgICAgICAgICAgYWxpZ249ImxlZnQiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJtYi04IgogICAgICAgICAgICAvPgoKICAgICAgICAgICAgPEFuaW1hdGVPblNjcm9sbD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtdGV4dC1saWdodCBsZWFkaW5nLXJlbGF4ZWQgbWItNiI+CiAgICAgICAgICAgICAgICBBcmNoaW4gKNCe0J7QniDCq9Ch0JTQocK7KSDigJQg0YDQvtGB0YHQuNC50YHQutC40Lkg0L/RgNC+0LjQt9Cy0L7QtNC40YLQtdC70Ywg0YHRgtGA0L7QuNGC0LXQu9GM0L3Ri9GFCiAgICAgICAgICAgICAgICDQvNCw0YLQtdGA0LjQsNC70L7Qsi4g0J/RgNC+0LjQt9Cy0L7QtNGB0YLQstC+INGA0LDRgdC/0L7Qu9C+0LbQtdC90L4g0LIg0KDQsNC80LXQvdGB0LrQvtC8INGA0LDQudC+0L3QtQogICAgICAgICAgICAgICAg0JzQvtGB0LrQvtCy0YHQutC+0Lkg0L7QsdC70LDRgdGC0LgsIFImRCDRhtC10L3RgtGAIOKAlCDQsiDQnNC+0YHQutCy0LUuINCa0L7QvNC/0LDQvdC40Y8g0Y/QstC70Y/QtdGC0YHRjwogICAgICAgICAgICAgICAg0YDQtdC30LjQtNC10L3RgtC+0Lwg0KTQvtC90LTQsCDQodC60L7Qu9C60L7QstC+LgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9BbmltYXRlT25TY3JvbGw+CgogICAgICAgICAgICA8QW5pbWF0ZU9uU2Nyb2xsIGRlbGF5PXswLjF9PgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC10ZXh0LWxpZ2h0IGxlYWRpbmctcmVsYXhlZCBtYi04Ij4KICAgICAgICAgICAgICAgIEFyY2hpbiDQstGL0L/Rg9GB0LrQsNC10YIg0YjRgtGD0LrQsNGC0YPRgNC60LgsINGI0L/QsNGC0LvRkdCy0LrQuCwg0LTQtdC60L7RgNCw0YLQuNCy0L3Ri9C1INC/0L7QutGA0YvRgtC40Y8sCiAgICAgICAgICAgICAgICDQutGA0LDRgdC60LgsINCz0YDRg9C90YLQvtCy0LrQuCwg0L/Qu9C40YLQvtGH0L3Ri9C1INC60LvQtdC4INC4INCz0LjQtNGA0L7QuNC30L7Qu9GP0YbQuNGOLiDQntCe0J4gwqvQntCb0J3QkNCh0KIKICAgICAgICAgICAgICAgINCT0KDQo9Cf0J/CuyDigJQg0L7RhNC40YbQuNCw0LvRjNC90YvQuSDQtNC40LvQtdGAINCi0JwgwqtBcmNoaW7CuyDQvdCwINGC0LXRgNGA0LjRgtC+0YDQuNC4INCc0L7RgdC60LLRiwogICAgICAgICAgICAgICAg0Lgg0JzQvtGB0LrQvtCy0YHQutC+0Lkg0L7QsdC70LDRgdGC0LguCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L0FuaW1hdGVPblNjcm9sbD4KCiAgICAgICAgICAgIDxBbmltYXRlT25TY3JvbGwgZGVsYXk9ezAuMn0+CiAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0zIG1iLTgiPgogICAgICAgICAgICAgICAge2ZhY3RzLm1hcCgoZmFjdCkgPT4gKAogICAgICAgICAgICAgICAgICA8bGkga2V5PXtmYWN0fSBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQgZ2FwLTMiPgogICAgICAgICAgICAgICAgICAgIDxDaGVja0NpcmNsZSBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1hY2NlbnQgc2hyaW5rLTAgbXQtMC41IiAvPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC10ZXh0IHRleHQtc20iPntmYWN0fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvQW5pbWF0ZU9uU2Nyb2xsPgoKICAgICAgICAgICAgPEFuaW1hdGVPblNjcm9sbCBkZWxheT17MC4zfT4KICAgICAgICAgICAgICA8TGluayBocmVmPSIvY2F0YWxvZyI+CiAgICAgICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9InByaW1hcnkiPtCf0LXRgNC10LnRgtC4INCyINC60LDRgtCw0LvQvtCzPC9CdXR0b24+CiAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8L0FuaW1hdGVPblNjcm9sbD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBDZXJ0aWZpY2F0ZSAqL30KICAgICAgICAgIDxBbmltYXRlT25TY3JvbGwgZGlyZWN0aW9uPSJyaWdodCIgZGVsYXk9ezAuMn0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtY2FyZCBvdmVyZmxvdy1oaWRkZW4gYmctd2hpdGUgc2hhZG93LWNhcmQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIHctZnVsbCIgc3R5bGU9e3sgYXNwZWN0UmF0aW86ICI5NTkvMTI4MCIgfX0+CiAgICAgICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgICAgIHNyYz0iL2ltYWdlcy9kZWFsZXItY2VydGlmaWNhdGUud2VicCIKICAgICAgICAgICAgICAgICAgICBhbHQ9ItCh0LXRgNGC0LjRhNC40LrQsNGCINC+0YTQuNGG0LjQsNC70YzQvdC+0LPQviDQtNC40LvQtdGA0LAgQXJjaGluIOKAlCDQntCe0J4gwqvQntCb0J3QkNCh0KIg0JPQoNCj0J/Qn8K7LCAyMDI2IgogICAgICAgICAgICAgICAgICAgIGZpbGwKICAgICAgICAgICAgICAgICAgICBzaXplcz0iKG1heC13aWR0aDogMTAyNHB4KSAxMDB2dywgNTB2dyIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im9iamVjdC1jb250YWluIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIHsvKiBTdGF0cyBvdmVybGF5ICovfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSAtYm90dG9tLTggbGVmdC00IHJpZ2h0LTQgbWQ6bGVmdC04IG1kOnJpZ2h0LTgiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQtY2FyZCBzaGFkb3ctY2FyZC1ob3ZlciBwLTYgZ3JpZCBncmlkLWNvbHMtMyBnYXAtNCI+CiAgICAgICAgICAgICAgICAgIHtzdGF0cy5tYXAoKHN0YXQpID0+ICgKICAgICAgICAgICAgICAgICAgICA8ZGl2IGtleT17c3RhdC5sYWJlbH0gY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC0yeGwgbWQ6dGV4dC0zeGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LWFjY2VudCI+CiAgICAgICAgICAgICAgICAgICAgICAgIHtzdGF0LnZhbHVlfQogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC14cyBtZDp0ZXh0LXNtIHRleHQtdGV4dC1saWdodCBtdC0xIj4KICAgICAgICAgICAgICAgICAgICAgICAge3N0YXQubGFiZWx9CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0FuaW1hdGVPblNjcm9sbD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfQo="}
+import Link from "next/link";
+import Image from "next/image";
+import { CheckCircle } from "lucide-react";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
+import { Button } from "@/components/ui/Button";
+
+const facts = [
+  "Собственный завод в Раменском районе Московской области",
+  "R&D центр в Москве, резидент Фонда Сколково",
+  "Вся продукция сертифицирована: декларации соответствия, СГР, экспертные заключения",
+  "Дилерская сеть — 20+ партнёров в Москве и регионах",
+];
+
+const stats = [
+  { value: "31", label: "продукт" },
+  { value: "7", label: "категорий" },
+  { value: "20+", label: "дилеров" },
+];
+
+export function AboutBrand() {
+  return (
+    <section id="about" className="section-padding bg-secondary">
+      <div className="container-custom">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          {/* Text */}
+          <div>
+            <SectionHeading
+              title="О бренде Archin"
+              align="left"
+              className="mb-8"
+            />
+
+            <AnimateOnScroll>
+              <p className="text-text-light leading-relaxed mb-6">
+                Archin (ООО «СДС») — российский производитель строительных
+                материалов. Производство расположено в Раменском районе
+                Московской области, R&D центр — в Москве. Компания является
+                резидентом Фонда Сколково.
+              </p>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll delay={0.1}>
+              <p className="text-text-light leading-relaxed mb-8">
+                Archin выпускает штукатурки, шпатлёвки, декоративные покрытия,
+                краски, грунтовки, плиточные клеи и гидроизоляцию. ООО «ОЛНАСТ
+                ГРУПП» — официальный дилер ТМ «Archin» на территории Москвы
+                и Московской области.
+              </p>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll delay={0.2}>
+              <ul className="space-y-3 mb-8">
+                {facts.map((fact) => (
+                  <li key={fact} className="flex items-start gap-3">
+                    <CheckCircle className="w-5 h-5 text-accent shrink-0 mt-0.5" />
+                    <span className="text-text text-sm">{fact}</span>
+                  </li>
+                ))}
+              </ul>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll delay={0.3}>
+              <Link href="/catalog">
+                <Button variant="primary">Перейти в каталог</Button>
+              </Link>
+            </AnimateOnScroll>
+          </div>
+
+          {/* Certificate */}
+          <AnimateOnScroll direction="right" delay={0.2}>
+            <div className="relative">
+              <div className="rounded-card overflow-hidden bg-white shadow-card">
+                <div className="relative w-full" style={{ aspectRatio: "959/1280" }}>
+                  <Image
+                    src="/images/dealer-certificate.webp"
+                    alt="Сертификат официального дилера Archin — ООО «ОЛНАСТ ГРУПП», 2026"
+                    fill
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+              {/* Stats overlay */}
+              <div className="absolute -bottom-8 left-4 right-4 md:left-8 md:right-8">
+                <div className="bg-white rounded-card shadow-card-hover p-6 grid grid-cols-3 gap-4">
+                  {stats.map((stat) => (
+                    <div key={stat.label} className="text-center">
+                      <div className="text-2xl md:text-3xl font-heading font-bold text-accent">
+                        {stat.value}
+                      </div>
+                      <div className="text-xs md:text-sm text-text-light mt-1">
+                        {stat.label}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </AnimateOnScroll>
+        </div>
+      </div>
+    </section>
+  );
+}

@@ -1,1 +1,177 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZU1lbW8gfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcywgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgcHJvZHVjdHMsIGNhdGVnb3JpZXMgfSBmcm9tICJAL2RhdGEvcHJvZHVjdHMiOwppbXBvcnQgeyBQcm9kdWN0Q2FyZCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9Qcm9kdWN0Q2FyZCI7CmltcG9ydCB7IEFuaW1hdGVPblNjcm9sbCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9BbmltYXRlT25TY3JvbGwiOwppbXBvcnQgeyBTZWN0aW9uSGVhZGluZyB9IGZyb20gIkAvY29tcG9uZW50cy91aS9TZWN0aW9uSGVhZGluZyI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwppbXBvcnQgdHlwZSB7IENhdGVnb3J5U2x1ZyB9IGZyb20gIkAvdHlwZXMiOwoKZXhwb3J0IGZ1bmN0aW9uIENhdGFsb2dDb250ZW50KCkgewogIGNvbnN0IHNlYXJjaFBhcmFtcyA9IHVzZVNlYXJjaFBhcmFtcygpOwogIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpOwogIGNvbnN0IGluaXRpYWxDYXRlZ29yeSA9IHNlYXJjaFBhcmFtcy5nZXQoImNhdGVnb3J5IikgfHwgImFsbCI7CiAgY29uc3QgW3NlbGVjdGVkQ2F0ZWdvcnksIHNldFNlbGVjdGVkQ2F0ZWdvcnldID0gdXNlU3RhdGU8c3RyaW5nPihpbml0aWFsQ2F0ZWdvcnkpOwoKICBjb25zdCBmaWx0ZXJlZFByb2R1Y3RzID0gdXNlTWVtbygoKSA9PiB7CiAgICBpZiAoc2VsZWN0ZWRDYXRlZ29yeSA9PT0gImFsbCIpIHJldHVybiBwcm9kdWN0czsKICAgIHJldHVybiBwcm9kdWN0cy5maWx0ZXIoKHApID0+IHAuY2F0ZWdvcnkgPT09IHNlbGVjdGVkQ2F0ZWdvcnkpOwogIH0sIFtzZWxlY3RlZENhdGVnb3J5XSk7CgogIGNvbnN0IGhhbmRsZUNhdGVnb3J5Q2hhbmdlID0gKHNsdWc6IHN0cmluZykgPT4gewogICAgc2V0U2VsZWN0ZWRDYXRlZ29yeShzbHVnKTsKICAgIGlmIChzbHVnID09PSAiYWxsIikgewogICAgICByb3V0ZXIucmVwbGFjZSgiL2NhdGFsb2ciLCB7IHNjcm9sbDogZmFsc2UgfSk7CiAgICB9IGVsc2UgewogICAgICByb3V0ZXIucmVwbGFjZShgL2NhdGFsb2c/Y2F0ZWdvcnk9JHtzbHVnfWAsIHsgc2Nyb2xsOiBmYWxzZSB9KTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPD4KICAgICAgPFNlY3Rpb25IZWFkaW5nCiAgICAgICAgdGl0bGU9ItCa0LDRgtCw0LvQvtCzINC/0YDQvtC00YPQutGG0LjQuCIKICAgICAgICBzdWJ0aXRsZT17YCR7ZmlsdGVyZWRQcm9kdWN0cy5sZW5ndGh9ICR7Z2V0UHJvZHVjdFdvcmQoZmlsdGVyZWRQcm9kdWN0cy5sZW5ndGgpfSDQsiDQutCw0YLQsNC70L7Qs9C1YH0KICAgICAgLz4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGxnOmZsZXgtcm93IGdhcC04Ij4KICAgICAgICB7LyogU2lkZWJhciAvIGZpbHRlciBwaWxscyAqL30KICAgICAgICA8YXNpZGUgY2xhc3NOYW1lPSJsZzp3LTY0IHNocmluay0wIj4KICAgICAgICAgIHsvKiBNb2JpbGU6IGhvcml6b250YWwgc2Nyb2xsIHBpbGxzICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxnOmhpZGRlbiBmbGV4IGdhcC0yIG92ZXJmbG93LXgtYXV0byBwYi00IC1teC00IHB4LTQgc2Nyb2xsYmFyLWhpZGUiPgogICAgICAgICAgICA8RmlsdGVyQnV0dG9uCiAgICAgICAgICAgICAgYWN0aXZlPXtzZWxlY3RlZENhdGVnb3J5ID09PSAiYWxsIn0KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVDYXRlZ29yeUNoYW5nZSgiYWxsIil9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICDQktGB0LUKICAgICAgICAgICAgPC9GaWx0ZXJCdXR0b24+CiAgICAgICAgICAgIHtjYXRlZ29yaWVzLm1hcCgoY2F0KSA9PiAoCiAgICAgICAgICAgICAgPEZpbHRlckJ1dHRvbgogICAgICAgICAgICAgICAga2V5PXtjYXQuc2x1Z30KICAgICAgICAgICAgICAgIGFjdGl2ZT17c2VsZWN0ZWRDYXRlZ29yeSA9PT0gY2F0LnNsdWd9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVDYXRlZ29yeUNoYW5nZShjYXQuc2x1Zyl9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge2NhdC5uYW1lfQogICAgICAgICAgICAgIDwvRmlsdGVyQnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBEZXNrdG9wOiB2ZXJ0aWNhbCBzaWRlYmFyICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImhpZGRlbiBsZzpibG9jayBzdGlja3kgdG9wLTI4IHNwYWNlLXktMS41Ij4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtc2VtaWJvbGQgdGV4dC1zbSB0ZXh0LXRleHQtbGlnaHQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVyIG1iLTQiPgogICAgICAgICAgICAgINCa0LDRgtC10LPQvtGA0LjQuAogICAgICAgICAgICA8L2gzPgogICAgICAgICAgICA8U2lkZWJhckJ1dHRvbgogICAgICAgICAgICAgIGFjdGl2ZT17c2VsZWN0ZWRDYXRlZ29yeSA9PT0gImFsbCJ9CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlQ2F0ZWdvcnlDaGFuZ2UoImFsbCIpfQogICAgICAgICAgICAgIGNvdW50PXtwcm9kdWN0cy5sZW5ndGh9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICDQktGB0LUg0YLQvtCy0LDRgNGLCiAgICAgICAgICAgIDwvU2lkZWJhckJ1dHRvbj4KICAgICAgICAgICAge2NhdGVnb3JpZXMubWFwKChjYXQpID0+IHsKICAgICAgICAgICAgICBjb25zdCBjb3VudCA9IHByb2R1Y3RzLmZpbHRlcigocCkgPT4gcC5jYXRlZ29yeSA9PT0gY2F0LnNsdWcpLmxlbmd0aDsKICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPFNpZGViYXJCdXR0b24KICAgICAgICAgICAgICAgICAga2V5PXtjYXQuc2x1Z30KICAgICAgICAgICAgICAgICAgYWN0aXZlPXtzZWxlY3RlZENhdGVnb3J5ID09PSBjYXQuc2x1Z30KICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlQ2F0ZWdvcnlDaGFuZ2UoY2F0LnNsdWcpfQogICAgICAgICAgICAgICAgICBjb3VudD17Y291bnR9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtjYXQubmFtZX0KICAgICAgICAgICAgICAgIDwvU2lkZWJhckJ1dHRvbj4KICAgICAgICAgICAgICApOwogICAgICAgICAgICB9KX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvYXNpZGU+CgogICAgICAgIHsvKiBQcm9kdWN0cyBncmlkICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgeGw6Z3JpZC1jb2xzLTMgZ2FwLTUiPgogICAgICAgICAgICB7ZmlsdGVyZWRQcm9kdWN0cy5tYXAoKHByb2R1Y3QsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgPEFuaW1hdGVPblNjcm9sbCBrZXk9e3Byb2R1Y3QuaWR9IGRlbGF5PXtNYXRoLm1pbihpbmRleCAqIDAuMDUsIDAuMyl9PgogICAgICAgICAgICAgICAgPFByb2R1Y3RDYXJkIHByb2R1Y3Q9e3Byb2R1Y3R9IC8+CiAgICAgICAgICAgICAgPC9BbmltYXRlT25TY3JvbGw+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAge2ZpbHRlcmVkUHJvZHVjdHMubGVuZ3RoID09PSAwICYmICgKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHB5LTE2Ij4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtdGV4dC1saWdodCB0ZXh0LWxnIj4KICAgICAgICAgICAgICAgINCi0L7QstCw0YDRiyDQsiDQtNCw0L3QvdC+0Lkg0LrQsNGC0LXQs9C+0YDQuNC4INC90LUg0L3QsNC50LTQtdC90YsKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9CgpmdW5jdGlvbiBGaWx0ZXJCdXR0b24oewogIGNoaWxkcmVuLAogIGFjdGl2ZSwKICBvbkNsaWNrLAp9OiB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKICBhY3RpdmU6IGJvb2xlYW47CiAgb25DbGljazogKCkgPT4gdm9pZDsKfSkgewogIHJldHVybiAoCiAgICA8YnV0dG9uCiAgICAgIG9uQ2xpY2s9e29uQ2xpY2t9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgInB4LTQgcHktMiByb3VuZGVkLWZ1bGwgdGV4dC1zbSBmb250LW1lZGl1bSB3aGl0ZXNwYWNlLW5vd3JhcCB0cmFuc2l0aW9uLWNvbG9ycyIsCiAgICAgICAgYWN0aXZlCiAgICAgICAgICA/ICJiZy1hY2NlbnQgdGV4dC13aGl0ZSIKICAgICAgICAgIDogImJnLXNlY29uZGFyeSB0ZXh0LXRleHQgaG92ZXI6YmctYm9yZGVyIgogICAgICApfQogICAgPgogICAgICB7Y2hpbGRyZW59CiAgICA8L2J1dHRvbj4KICApOwp9CgpmdW5jdGlvbiBTaWRlYmFyQnV0dG9uKHsKICBjaGlsZHJlbiwKICBhY3RpdmUsCiAgb25DbGljaywKICBjb3VudCwKfTogewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7CiAgYWN0aXZlOiBib29sZWFuOwogIG9uQ2xpY2s6ICgpID0+IHZvaWQ7CiAgY291bnQ6IG51bWJlcjsKfSkgewogIHJldHVybiAoCiAgICA8YnV0dG9uCiAgICAgIG9uQ2xpY2s9e29uQ2xpY2t9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgInctZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcHgtNCBweS0yLjUgcm91bmRlZC1idXR0b24gdGV4dC1zbSBmb250LW1lZGl1bSB0cmFuc2l0aW9uLWNvbG9ycyB0ZXh0LWxlZnQiLAogICAgICAgIGFjdGl2ZQogICAgICAgICAgPyAiYmctYWNjZW50IHRleHQtd2hpdGUiCiAgICAgICAgICA6ICJ0ZXh0LXRleHQgaG92ZXI6Ymctc2Vjb25kYXJ5IgogICAgICApfQogICAgPgogICAgICA8c3Bhbj57Y2hpbGRyZW59PC9zcGFuPgogICAgICA8c3BhbgogICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAidGV4dC14cyByb3VuZGVkLWZ1bGwgcHgtMiBweS0wLjUiLAogICAgICAgICAgYWN0aXZlID8gImJnLXdoaXRlLzIwIiA6ICJiZy1zZWNvbmRhcnkgdGV4dC10ZXh0LWxpZ2h0IgogICAgICAgICl9CiAgICAgID4KICAgICAgICB7Y291bnR9CiAgICAgIDwvc3Bhbj4KICAgIDwvYnV0dG9uPgogICk7Cn0KCmZ1bmN0aW9uIGdldFByb2R1Y3RXb3JkKGNvdW50OiBudW1iZXIpOiBzdHJpbmcgewogIGNvbnN0IGxhc3RUd28gPSBjb3VudCAlIDEwMDsKICBjb25zdCBsYXN0T25lID0gY291bnQgJSAxMDsKICBpZiAobGFzdFR3byA+PSAxMSAmJiBsYXN0VHdvIDw9IDE5KSByZXR1cm4gItGC0L7QstCw0YDQvtCyIjsKICBpZiAobGFzdE9uZSA9PT0gMSkgcmV0dXJuICLRgtC+0LLQsNGAIjsKICBpZiAobGFzdE9uZSA+PSAyICYmIGxhc3RPbmUgPD0gNCkgcmV0dXJuICLRgtC+0LLQsNGA0LAiOwogIHJldHVybiAi0YLQvtCy0LDRgNC+0LIiOwp9Cg=="}
+"use client";
+
+import { useState, useMemo } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
+import { products, categories } from "@/data/products";
+import { ProductCard } from "@/components/ui/ProductCard";
+import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { cn } from "@/lib/utils";
+import type { CategorySlug } from "@/types";
+
+export function CatalogContent() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const initialCategory = searchParams.get("category") || "all";
+  const [selectedCategory, setSelectedCategory] = useState<string>(initialCategory);
+
+  const filteredProducts = useMemo(() => {
+    if (selectedCategory === "all") return products;
+    return products.filter((p) => p.category === selectedCategory);
+  }, [selectedCategory]);
+
+  const handleCategoryChange = (slug: string) => {
+    setSelectedCategory(slug);
+    if (slug === "all") {
+      router.replace("/catalog", { scroll: false });
+    } else {
+      router.replace(`/catalog?category=${slug}`, { scroll: false });
+    }
+  };
+
+  return (
+    <>
+      <SectionHeading
+        title="Каталог продукции"
+        subtitle={`${filteredProducts.length} ${getProductWord(filteredProducts.length)} в каталоге`}
+      />
+
+      <div className="flex flex-col lg:flex-row gap-8">
+        {/* Sidebar / filter pills */}
+        <aside className="lg:w-64 shrink-0">
+          {/* Mobile: horizontal scroll pills */}
+          <div className="lg:hidden flex gap-2 overflow-x-auto pb-4 -mx-4 px-4 scrollbar-hide">
+            <FilterButton
+              active={selectedCategory === "all"}
+              onClick={() => handleCategoryChange("all")}
+            >
+              Все
+            </FilterButton>
+            {categories.map((cat) => (
+              <FilterButton
+                key={cat.slug}
+                active={selectedCategory === cat.slug}
+                onClick={() => handleCategoryChange(cat.slug)}
+              >
+                {cat.name}
+              </FilterButton>
+            ))}
+          </div>
+
+          {/* Desktop: vertical sidebar */}
+          <div className="hidden lg:block sticky top-28 space-y-1.5">
+            <h3 className="font-heading font-semibold text-sm text-text-light uppercase tracking-wider mb-4">
+              Категории
+            </h3>
+            <SidebarButton
+              active={selectedCategory === "all"}
+              onClick={() => handleCategoryChange("all")}
+              count={products.length}
+            >
+              Все товары
+            </SidebarButton>
+            {categories.map((cat) => {
+              const count = products.filter((p) => p.category === cat.slug).length;
+              return (
+                <SidebarButton
+                  key={cat.slug}
+                  active={selectedCategory === cat.slug}
+                  onClick={() => handleCategoryChange(cat.slug)}
+                  count={count}
+                >
+                  {cat.name}
+                </SidebarButton>
+              );
+            })}
+          </div>
+        </aside>
+
+        {/* Products grid */}
+        <div className="flex-1">
+          <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5">
+            {filteredProducts.map((product, index) => (
+              <AnimateOnScroll key={product.id} delay={Math.min(index * 0.05, 0.3)}>
+                <ProductCard product={product} />
+              </AnimateOnScroll>
+            ))}
+          </div>
+
+          {filteredProducts.length === 0 && (
+            <div className="text-center py-16">
+              <p className="text-text-light text-lg">
+                Товары в данной категории не найдены
+              </p>
+            </div>
+          )}
+        </div>
+      </div>
+    </>
+  );
+}
+
+function FilterButton({
+  children,
+  active,
+  onClick,
+}: {
+  children: React.ReactNode;
+  active: boolean;
+  onClick: () => void;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={cn(
+        "px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors",
+        active
+          ? "bg-accent text-white"
+          : "bg-secondary text-text hover:bg-border"
+      )}
+    >
+      {children}
+    </button>
+  );
+}
+
+function SidebarButton({
+  children,
+  active,
+  onClick,
+  count,
+}: {
+  children: React.ReactNode;
+  active: boolean;
+  onClick: () => void;
+  count: number;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={cn(
+        "w-full flex items-center justify-between px-4 py-2.5 rounded-button text-sm font-medium transition-colors text-left",
+        active
+          ? "bg-accent text-white"
+          : "text-text hover:bg-secondary"
+      )}
+    >
+      <span>{children}</span>
+      <span
+        className={cn(
+          "text-xs rounded-full px-2 py-0.5",
+          active ? "bg-white/20" : "bg-secondary text-text-light"
+        )}
+      >
+        {count}
+      </span>
+    </button>
+  );
+}
+
+function getProductWord(count: number): string {
+  const lastTwo = count % 100;
+  const lastOne = count % 10;
+  if (lastTwo >= 11 && lastTwo <= 19) return "товаров";
+  if (lastOne === 1) return "товар";
+  if (lastOne >= 2 && lastOne <= 4) return "товара";
+  return "товаров";
+}

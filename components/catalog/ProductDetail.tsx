@@ -1,1 +1,131 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBJbWFnZSBmcm9tICJuZXh0L2ltYWdlIjsKaW1wb3J0IHsgU2hvcHBpbmdDYXJ0LCBNZXNzYWdlQ2lyY2xlIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgUHJvZHVjdCB9IGZyb20gIkAvdHlwZXMiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9CYWRnZSI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9CdXR0b24iOwppbXBvcnQgeyBPcmRlck1vZGFsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL09yZGVyTW9kYWwiOwppbXBvcnQgeyBBbmltYXRlT25TY3JvbGwgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvQW5pbWF0ZU9uU2Nyb2xsIjsKCmludGVyZmFjZSBQcm9kdWN0RGV0YWlsUHJvcHMgewogIHByb2R1Y3Q6IFByb2R1Y3Q7Cn0KCmV4cG9ydCBmdW5jdGlvbiBQcm9kdWN0RGV0YWlsKHsgcHJvZHVjdCB9OiBQcm9kdWN0RGV0YWlsUHJvcHMpIHsKICBjb25zdCBbb3JkZXJNb2RhbE9wZW4sIHNldE9yZGVyTW9kYWxPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0xIGxnOmdyaWQtY29scy0yIGdhcC04IGxnOmdhcC0xMiBtYi0xNiI+CiAgICAgICAgey8qIEltYWdlICovfQogICAgICAgIDxBbmltYXRlT25TY3JvbGw+CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC1jYXJkIG92ZXJmbG93LWhpZGRlbiByZWxhdGl2ZSIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBgbGluZWFyLWdyYWRpZW50KDE0NWRlZywgJHtwcm9kdWN0LmdyYWRpZW50RnJvbX01MCAwJSwgJHtwcm9kdWN0LmdyYWRpZW50VG99MzAgMTAwJSlgLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7LyogRGVjb3JhdGl2ZSBlbGVtZW50cyAqL30KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgLXRvcC0yMCAtcmlnaHQtMjAgdy02MCBoLTYwIHJvdW5kZWQtZnVsbCBvcGFjaXR5LTE1IgogICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6IHByb2R1Y3QuZ3JhZGllbnRUbyB9fQogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSAtYm90dG9tLTE2IC1sZWZ0LTE2IHctNDggaC00OCByb3VuZGVkLWZ1bGwgb3BhY2l0eS0xMCIKICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiBwcm9kdWN0LmdyYWRpZW50RnJvbSB9fQogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgaC04MCBtZDpoLVs0MDBweF0gbGc6aC1bNDgwcHhdIHctZnVsbCI+CiAgICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgICBzcmM9e3Byb2R1Y3QuaW1hZ2V9CiAgICAgICAgICAgICAgICBhbHQ9e3Byb2R1Y3QubmFtZX0KICAgICAgICAgICAgICAgIGZpbGwKICAgICAgICAgICAgICAgIHNpemVzPSIobWF4LXdpZHRoOiAxMDI0cHgpIDEwMHZ3LCA1MHZ3IgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJvYmplY3QtY29udGFpbiBwLTggZHJvcC1zaGFkb3cteGwiCiAgICAgICAgICAgICAgICBwcmlvcml0eQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9BbmltYXRlT25TY3JvbGw+CgogICAgICAgIHsvKiBJbmZvICovfQogICAgICAgIDxBbmltYXRlT25TY3JvbGwgZGVsYXk9ezAuMTV9PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPEJhZGdlIGNsYXNzTmFtZT0ibWItNCI+e3Byb2R1Y3QuY2F0ZWdvcnlOYW1lfTwvQmFkZ2U+CiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtMnhsIG1kOnRleHQtM3hsIGxnOnRleHQtNHhsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC10ZXh0IGxlYWRpbmctdGlnaHQgbWItNCI+CiAgICAgICAgICAgICAge3Byb2R1Y3QubmFtZX0KICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXRleHQtbGlnaHQgdGV4dC1sZyBsZWFkaW5nLXJlbGF4ZWQgbWItNiI+CiAgICAgICAgICAgICAge3Byb2R1Y3Quc2hvcnREZXNjcmlwdGlvbn0KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtdGV4dCBsZWFkaW5nLXJlbGF4ZWQgbWItNiI+CiAgICAgICAgICAgICAge3Byb2R1Y3QuZGVzY3JpcHRpb259CiAgICAgICAgICAgIDwvcD4KCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi02Ij4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtM3hsIG1kOnRleHQtNHhsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC1hY2NlbnQiPgogICAgICAgICAgICAgICAge3Byb2R1Y3QucHJpY2UudG9Mb2NhbGVTdHJpbmcoInJ1LVJVIil9IOKCvQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBzbTpmbGV4LXJvdyBnYXAtMyBtYi04Ij4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJwcmltYXJ5IgogICAgICAgICAgICAgICAgc2l6ZT0ibGciCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRPcmRlck1vZGFsT3Blbih0cnVlKX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8U2hvcHBpbmdDYXJ0IGNsYXNzTmFtZT0idy01IGgtNSBtci0yIiAvPgogICAgICAgICAgICAgICAg0JfQsNC60LDQt9Cw0YLRjAogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0T3JkZXJNb2RhbE9wZW4odHJ1ZSl9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPE1lc3NhZ2VDaXJjbGUgY2xhc3NOYW1lPSJ3LTUgaC01IG1yLTIiIC8+CiAgICAgICAgICAgICAgICDQmtC+0L3RgdGD0LvRjNGC0LDRhtC40Y8KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0FuaW1hdGVPblNjcm9sbD4KICAgICAgPC9kaXY+CgogICAgICB7LyogU3BlY2lmaWNhdGlvbnMgKi99CiAgICAgIHtwcm9kdWN0LnNwZWNzLmxlbmd0aCA+IDAgJiYgKAogICAgICAgIDxBbmltYXRlT25TY3JvbGw+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMTYiPgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIG1kOnRleHQtMnhsIGZvbnQtaGVhZGluZyBmb250LXNlbWlib2xkIHRleHQtdGV4dCBtYi02Ij4KICAgICAgICAgICAgICDQotC10YXQvdC40YfQtdGB0LrQuNC1INGF0LDRgNCw0LrRgtC10YDQuNGB0YLQuNC60LgKICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQtY2FyZCBzaGFkb3ctY2FyZCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgICAgICAgIDx0YWJsZSBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgIHtwcm9kdWN0LnNwZWNzLm1hcCgoc3BlYywgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICA8dHIKICAgICAgICAgICAgICAgICAgICAgIGtleT17c3BlYy5sYWJlbH0KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17aW5kZXggJSAyID09PSAwID8gImJnLXdoaXRlIiA6ICJiZy1zZWNvbmRhcnkvNTAifQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTYgcHktNCB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtdGV4dC1saWdodCB3LTEvMyBtZDp3LTIvNSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHtzcGVjLmxhYmVsfQogICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTYgcHktNCB0ZXh0LXNtIHRleHQtdGV4dCI+CiAgICAgICAgICAgICAgICAgICAgICAgIHtzcGVjLnZhbHVlfQogICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0FuaW1hdGVPblNjcm9sbD4KICAgICAgKX0KCiAgICAgIDxPcmRlck1vZGFsCiAgICAgICAgaXNPcGVuPXtvcmRlck1vZGFsT3Blbn0KICAgICAgICBvbkNsb3NlPXsoKSA9PiBzZXRPcmRlck1vZGFsT3BlbihmYWxzZSl9CiAgICAgICAgcHJvZHVjdE5hbWU9e3Byb2R1Y3QubmFtZX0KICAgICAgLz4KICAgIDwvPgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+import Image from "next/image";
+import { ShoppingCart, MessageCircle } from "lucide-react";
+import { Product } from "@/types";
+import { Badge } from "@/components/ui/Badge";
+import { Button } from "@/components/ui/Button";
+import { OrderModal } from "@/components/ui/OrderModal";
+import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
+
+interface ProductDetailProps {
+  product: Product;
+}
+
+export function ProductDetail({ product }: ProductDetailProps) {
+  const [orderModalOpen, setOrderModalOpen] = useState(false);
+
+  return (
+    <>
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-16">
+        {/* Image */}
+        <AnimateOnScroll>
+          <div
+            className="rounded-card overflow-hidden relative"
+            style={{
+              background: `linear-gradient(145deg, ${product.gradientFrom}50 0%, ${product.gradientTo}30 100%)`,
+            }}
+          >
+            {/* Decorative elements */}
+            <div
+              className="absolute -top-20 -right-20 w-60 h-60 rounded-full opacity-15"
+              style={{ background: product.gradientTo }}
+            />
+            <div
+              className="absolute -bottom-16 -left-16 w-48 h-48 rounded-full opacity-10"
+              style={{ background: product.gradientFrom }}
+            />
+            <div className="relative h-80 md:h-[400px] lg:h-[480px] w-full">
+              <Image
+                src={product.image}
+                alt={product.name}
+                fill
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                className="object-contain p-8 drop-shadow-xl"
+                priority
+              />
+            </div>
+          </div>
+        </AnimateOnScroll>
+
+        {/* Info */}
+        <AnimateOnScroll delay={0.15}>
+          <div>
+            <Badge className="mb-4">{product.categoryName}</Badge>
+            <h1 className="text-2xl md:text-3xl lg:text-4xl font-heading font-bold text-text leading-tight mb-4">
+              {product.name}
+            </h1>
+            <p className="text-text-light text-lg leading-relaxed mb-6">
+              {product.shortDescription}
+            </p>
+            <p className="text-text leading-relaxed mb-6">
+              {product.description}
+            </p>
+
+            <div className="mb-6">
+              <span className="text-3xl md:text-4xl font-heading font-bold text-accent">
+                {product.price.toLocaleString("ru-RU")} ₽
+              </span>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3 mb-8">
+              <Button
+                variant="primary"
+                size="lg"
+                onClick={() => setOrderModalOpen(true)}
+              >
+                <ShoppingCart className="w-5 h-5 mr-2" />
+                Заказать
+              </Button>
+              <Button
+                variant="secondary"
+                size="lg"
+                onClick={() => setOrderModalOpen(true)}
+              >
+                <MessageCircle className="w-5 h-5 mr-2" />
+                Консультация
+              </Button>
+            </div>
+          </div>
+        </AnimateOnScroll>
+      </div>
+
+      {/* Specifications */}
+      {product.specs.length > 0 && (
+        <AnimateOnScroll>
+          <div className="mb-16">
+            <h2 className="text-xl md:text-2xl font-heading font-semibold text-text mb-6">
+              Технические характеристики
+            </h2>
+            <div className="bg-white rounded-card shadow-card overflow-hidden">
+              <table className="w-full">
+                <tbody>
+                  {product.specs.map((spec, index) => (
+                    <tr
+                      key={spec.label}
+                      className={index % 2 === 0 ? "bg-white" : "bg-secondary/50"}
+                    >
+                      <td className="px-6 py-4 text-sm font-medium text-text-light w-1/3 md:w-2/5">
+                        {spec.label}
+                      </td>
+                      <td className="px-6 py-4 text-sm text-text">
+                        {spec.value}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </AnimateOnScroll>
+      )}
+
+      <OrderModal
+        isOpen={orderModalOpen}
+        onClose={() => setOrderModalOpen(false)}
+        productName={product.name}
+      />
+    </>
+  );
+}

@@ -1,1 +1,19 @@
-{"data":"aW1wb3J0IHsgTmF2SXRlbSB9IGZyb20gIkAvdHlwZXMiOwoKZXhwb3J0IGNvbnN0IG1haW5OYXZJdGVtczogTmF2SXRlbVtdID0gWwogIHsgbGFiZWw6ICLQmtCw0YLQsNC70L7QsyIsIGhyZWY6ICIvY2F0YWxvZyIgfSwKICB7IGxhYmVsOiAi0J4g0LHRgNC10L3QtNC1IiwgaHJlZjogIi8jYWJvdXQiIH0sCiAgeyBsYWJlbDogItCa0L7QvdGC0LDQutGC0YsiLCBocmVmOiAiLyNjb250YWN0cyIgfSwKXTsKCmV4cG9ydCBjb25zdCBjb21wYW55SW5mbyA9IHsKICBuYW1lOiAiU0xPSSIsCiAgc2l0ZU5hbWU6ICLQodC70L7QuCIsCiAgbGVnYWxOYW1lOiAi0J7QntCeIMKr0J7Qm9Cd0JDQodCiINCT0KDQo9Cf0J/CuyIsCiAgaW5uOiAiNTAzODE5Mzg3MiIsCiAgc3VidGl0bGU6ICLQntGE0LjRhtC40LDQu9GM0L3Ri9C5INC00LjQu9C10YAgQXJjaGluIiwKICBwaG9uZTogIis3ICg5NjMpIDkyNy0zMS0yNCIsCiAgZW1haWw6ICJvbG5hc3QucnVAeWFuZGV4LnJ1IiwKICBhZGRyZXNzOiAi0LMuINCc0L7RgdC60LLQsCDQuCDQnNC+0YHQutC+0LLRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCIsCiAgd29ya2luZ0hvdXJzOiAi0JXQttC10LTQvdC10LLQvdC+OiA4OjAw4oCTMjA6MDAiLAp9Owo="}
+import { NavItem } from "@/types";
+
+export const mainNavItems: NavItem[] = [
+  { label: "Каталог", href: "/catalog" },
+  { label: "О бренде", href: "/#about" },
+  { label: "Контакты", href: "/#contacts" },
+];
+
+export const companyInfo = {
+  name: "SLOI",
+  siteName: "Слои",
+  legalName: "ООО «ОЛНАСТ ГРУПП»",
+  inn: "5038193872",
+  subtitle: "Официальный дилер Archin",
+  phone: "+7 (963) 927-31-24",
+  email: "olnast.ru@yandex.ru",
+  address: "г. Москва и Московская область",
+  workingHours: "Ежедневно: 8:00–20:00",
+};

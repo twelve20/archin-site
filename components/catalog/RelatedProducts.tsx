@@ -1,1 +1,24 @@
-{"data":"aW1wb3J0IHsgUHJvZHVjdCB9IGZyb20gIkAvdHlwZXMiOwppbXBvcnQgeyBQcm9kdWN0Q2FyZCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9Qcm9kdWN0Q2FyZCI7CmltcG9ydCB7IFNlY3Rpb25IZWFkaW5nIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL1NlY3Rpb25IZWFkaW5nIjsKaW1wb3J0IHsgQW5pbWF0ZU9uU2Nyb2xsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0FuaW1hdGVPblNjcm9sbCI7CgppbnRlcmZhY2UgUmVsYXRlZFByb2R1Y3RzUHJvcHMgewogIHByb2R1Y3RzOiBQcm9kdWN0W107Cn0KCmV4cG9ydCBmdW5jdGlvbiBSZWxhdGVkUHJvZHVjdHMoeyBwcm9kdWN0cyB9OiBSZWxhdGVkUHJvZHVjdHNQcm9wcykgewogIHJldHVybiAoCiAgICA8c2VjdGlvbj4KICAgICAgPFNlY3Rpb25IZWFkaW5nIHRpdGxlPSLQn9C+0YXQvtC20LjQtSDRgtC+0LLQsNGA0YsiIGFsaWduPSJsZWZ0IiAvPgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgeGw6Z3JpZC1jb2xzLTQgZ2FwLTUiPgogICAgICAgIHtwcm9kdWN0cy5tYXAoKHByb2R1Y3QsIGluZGV4KSA9PiAoCiAgICAgICAgICA8QW5pbWF0ZU9uU2Nyb2xsIGtleT17cHJvZHVjdC5pZH0gZGVsYXk9e2luZGV4ICogMC4wOH0+CiAgICAgICAgICAgIDxQcm9kdWN0Q2FyZCBwcm9kdWN0PXtwcm9kdWN0fSAvPgogICAgICAgICAgPC9BbmltYXRlT25TY3JvbGw+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICk7Cn0K"}
+import { Product } from "@/types";
+import { ProductCard } from "@/components/ui/ProductCard";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
+
+interface RelatedProductsProps {
+  products: Product[];
+}
+
+export function RelatedProducts({ products }: RelatedProductsProps) {
+  return (
+    <section>
+      <SectionHeading title="Похожие товары" align="left" />
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        {products.map((product, index) => (
+          <AnimateOnScroll key={product.id} delay={index * 0.08}>
+            <ProductCard product={product} />
+          </AnimateOnScroll>
+        ))}
+      </div>
+    </section>
+  );
+}

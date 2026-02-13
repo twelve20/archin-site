@@ -1,1 +1,46 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCB7IEFuaW1hdGVPblNjcm9sbCB9IGZyb20gIi4vQW5pbWF0ZU9uU2Nyb2xsIjsKCmludGVyZmFjZSBTZWN0aW9uSGVhZGluZ1Byb3BzIHsKICB0aXRsZTogc3RyaW5nOwogIHN1YnRpdGxlPzogc3RyaW5nOwogIGFsaWduPzogImxlZnQiIHwgImNlbnRlciI7CiAgY2xhc3NOYW1lPzogc3RyaW5nOwp9CgpleHBvcnQgZnVuY3Rpb24gU2VjdGlvbkhlYWRpbmcoewogIHRpdGxlLAogIHN1YnRpdGxlLAogIGFsaWduID0gImNlbnRlciIsCiAgY2xhc3NOYW1lLAp9OiBTZWN0aW9uSGVhZGluZ1Byb3BzKSB7CiAgcmV0dXJuICgKICAgIDxBbmltYXRlT25TY3JvbGwKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAibWItMTIgbWQ6bWItMTYiLAogICAgICAgIGFsaWduID09PSAiY2VudGVyIiAmJiAidGV4dC1jZW50ZXIiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgPgogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBtZDp0ZXh0LTR4bCBsZzp0ZXh0LVs0MnB4XSBmb250LWhlYWRpbmcgZm9udC1ib2xkIHRleHQtdGV4dCBsZWFkaW5nLXRpZ2h0Ij4KICAgICAgICB7dGl0bGV9CiAgICAgIDwvaDI+CiAgICAgIHtzdWJ0aXRsZSAmJiAoCiAgICAgICAgPHAKICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICJtdC00IHRleHQtdGV4dC1saWdodCB0ZXh0LWxnIiwKICAgICAgICAgICAgYWxpZ24gPT09ICJjZW50ZXIiICYmICJtYXgtdy0yeGwgbXgtYXV0byIKICAgICAgICAgICl9CiAgICAgICAgPgogICAgICAgICAge3N1YnRpdGxlfQogICAgICAgIDwvcD4KICAgICAgKX0KICAgICAgPGRpdgogICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAibXQtNiBoLTEgdy0xNiBiZy1hY2NlbnQgcm91bmRlZC1mdWxsIiwKICAgICAgICAgIGFsaWduID09PSAiY2VudGVyIiAmJiAibXgtYXV0byIKICAgICAgICApfQogICAgICAvPgogICAgPC9BbmltYXRlT25TY3JvbGw+CiAgKTsKfQo="}
+import { cn } from "@/lib/utils";
+import { AnimateOnScroll } from "./AnimateOnScroll";
+
+interface SectionHeadingProps {
+  title: string;
+  subtitle?: string;
+  align?: "left" | "center";
+  className?: string;
+}
+
+export function SectionHeading({
+  title,
+  subtitle,
+  align = "center",
+  className,
+}: SectionHeadingProps) {
+  return (
+    <AnimateOnScroll
+      className={cn(
+        "mb-12 md:mb-16",
+        align === "center" && "text-center",
+        className
+      )}
+    >
+      <h2 className="text-3xl md:text-4xl lg:text-[42px] font-heading font-bold text-text leading-tight">
+        {title}
+      </h2>
+      {subtitle && (
+        <p
+          className={cn(
+            "mt-4 text-text-light text-lg",
+            align === "center" && "max-w-2xl mx-auto"
+          )}
+        >
+          {subtitle}
+        </p>
+      )}
+      <div
+        className={cn(
+          "mt-6 h-1 w-16 bg-accent rounded-full",
+          align === "center" && "mx-auto"
+        )}
+      />
+    </AnimateOnScroll>
+  );
+}

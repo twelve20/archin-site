@@ -1,1 +1,105 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCBMaW5rIGZyb20gIm5leHQvbGluayI7CmltcG9ydCB7IENoZXZyb25Eb3duIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0J1dHRvbiI7CgpleHBvcnQgZnVuY3Rpb24gSGVybygpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyZWxhdGl2ZSBtaW4taC1zY3JlZW4gZmxleCBpdGVtcy1jZW50ZXIgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgey8qIEJhY2tncm91bmQgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLXByaW1hcnkiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBvcGFjaXR5LTMwIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYmFja2dyb3VuZEltYWdlOiBgCiAgICAgICAgICAgICAgcmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCAyMCUgMzAlLCByZ2JhKDE5NiwgOTAsIDYwLCAwLjMpIDAlLCB0cmFuc3BhcmVudCA1MCUpLAogICAgICAgICAgICAgIHJhZGlhbC1ncmFkaWVudChjaXJjbGUgYXQgODAlIDcwJSwgcmdiYSgxOTYsIDkwLCA2MCwgMC4xNSkgMCUsIHRyYW5zcGFyZW50IDUwJSksCiAgICAgICAgICAgICAgcmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCA1MCUgNTAlLCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMDMpIDAlLCB0cmFuc3BhcmVudCA3MCUpCiAgICAgICAgICAgIGAsCiAgICAgICAgICB9fQogICAgICAgIC8+CiAgICAgICAgey8qIERlY29yYXRpdmUgZWxlbWVudHMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0xLzQgcmlnaHQtWzEwJV0gdy02NCBoLTY0IG1kOnctOTYgbWQ6aC05NiByb3VuZGVkLWZ1bGwgYm9yZGVyIGJvcmRlci13aGl0ZS81IiAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBib3R0b20tMS80IGxlZnQtWzUlXSB3LTQwIGgtNDAgbWQ6dy02NCBtZDpoLTY0IHJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLXdoaXRlLzUiIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC1bMTUlXSBsZWZ0LVsxNSVdIHctMiBoLTIgYmctYWNjZW50LzQwIHJvdW5kZWQtZnVsbCIgLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLVszNSVdIHJpZ2h0LVsyMCVdIHctMyBoLTMgYmctYWNjZW50LzMwIHJvdW5kZWQtZnVsbCIgLz4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLWN1c3RvbSByZWxhdGl2ZSB6LTEwIHB5LTMyIG1kOnB5LTAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwiPgogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC42LCBkZWxheTogMC4xIH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWJsb2NrIG1iLTYiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIHB4LTQgcHktMiByb3VuZGVkLWZ1bGwgYmctd2hpdGUvMTAgdGV4dC13YXJtLzgwIHRleHQtc20gZm9udC1tZWRpdW0gdHJhY2tpbmctd2lkZSBib3JkZXIgYm9yZGVyLXdoaXRlLzEwIj4KICAgICAgICAgICAgICDQntGE0LjRhtC40LDQu9GM0L3Ri9C5INC00LjQu9C10YAgQXJjaGluCiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICA8bW90aW9uLmgxCiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuMiB9fQogICAgICAgICAgICBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNXhsIG1kOnRleHQtNnhsIGxnOnRleHQtN3hsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC13aGl0ZSBsZWFkaW5nLVsxLjA1XSBtYi02IgogICAgICAgICAgPgogICAgICAgICAgICDQodGC0YDQvtC40YLQtdC70YzQvdGL0LUKICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgINC80LDRgtC10YDQuNCw0LvRi3siICJ9CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiPkFyY2hpbjwvc3Bhbj4KICAgICAgICAgIDwvbW90aW9uLmgxPgoKICAgICAgICAgIDxtb3Rpb24ucAogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjM1IH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1sZyBtZDp0ZXh0LXhsIHRleHQtd2FybS83MCBtYi0xMCBtYXgtdy14bCBsZWFkaW5nLXJlbGF4ZWQiCiAgICAgICAgICA+CiAgICAgICAgICAgINCo0YLRg9C60LDRgtGD0YDQutC4LCDRiNC/0LDRgtC70ZHQstC60LgsINC00LXQutC+0YDQsNGC0LjQstC90YvQtSDQv9C+0LrRgNGL0YLQuNGPLCDQutGA0LDRgdC60LgsINCz0YDRg9C90YLQvtCy0LrQuCwKICAgICAgICAgICAg0L/Qu9C40YLQvtGH0L3Ri9C1INC60LvQtdC4INC4INCz0LjQtNGA0L7QuNC30L7Qu9GP0YbQuNGPLiDQlNC40LvQtdGA0YHQutC40LUg0YbQtdC90YsuCiAgICAgICAgICA8L21vdGlvbi5wPgoKICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuNSB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgZ2FwLTQiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxMaW5rIGhyZWY9Ii9jYXRhbG9nIj4KICAgICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9InByaW1hcnkiIHNpemU9ImxnIj4KICAgICAgICAgICAgICAgINCh0LzQvtGC0YDQtdGC0Ywg0LrQsNGC0LDQu9C+0LMKICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8TGluayBocmVmPSIjY29udGFjdHMiPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJib3JkZXItd2hpdGUvMzAgdGV4dC13aGl0ZSBob3ZlcjpiZy13aGl0ZSBob3Zlcjp0ZXh0LXRleHQiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAg0J/QvtC70YPRh9C40YLRjCDQutC+0L3RgdGD0LvRjNGC0LDRhtC40Y4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBTY3JvbGwgZG93biBpbmRpY2F0b3IgKi99CiAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwIH19CiAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxIH19CiAgICAgICAgdHJhbnNpdGlvbj17eyBkZWxheTogMSwgZHVyYXRpb246IDAuNiB9fQogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTggbGVmdC0xLzIgLXRyYW5zbGF0ZS14LTEvMiIKICAgICAgPgogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBhbmltYXRlPXt7IHk6IFswLCA4LCAwXSB9fQogICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMiwgcmVwZWF0OiBJbmZpbml0eSwgZWFzZTogImVhc2VJbk91dCIgfX0KICAgICAgICA+CiAgICAgICAgICA8Q2hldnJvbkRvd24gY2xhc3NOYW1lPSJ3LTYgaC02IHRleHQtd2FybS80MCIgLz4KICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgIDwvbW90aW9uLmRpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg=="}
+"use client";
+
+import { motion } from "framer-motion";
+import Link from "next/link";
+import { ChevronDown } from "lucide-react";
+import { Button } from "@/components/ui/Button";
+
+export function Hero() {
+  return (
+    <section className="relative min-h-screen flex items-center overflow-hidden">
+      {/* Background */}
+      <div className="absolute inset-0 bg-primary">
+        <div
+          className="absolute inset-0 opacity-30"
+          style={{
+            backgroundImage: `
+              radial-gradient(circle at 20% 30%, rgba(196, 90, 60, 0.3) 0%, transparent 50%),
+              radial-gradient(circle at 80% 70%, rgba(196, 90, 60, 0.15) 0%, transparent 50%),
+              radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.03) 0%, transparent 70%)
+            `,
+          }}
+        />
+        {/* Decorative elements */}
+        <div className="absolute top-1/4 right-[10%] w-64 h-64 md:w-96 md:h-96 rounded-full border border-white/5" />
+        <div className="absolute bottom-1/4 left-[5%] w-40 h-40 md:w-64 md:h-64 rounded-full border border-white/5" />
+        <div className="absolute top-[15%] left-[15%] w-2 h-2 bg-accent/40 rounded-full" />
+        <div className="absolute bottom-[35%] right-[20%] w-3 h-3 bg-accent/30 rounded-full" />
+      </div>
+
+      <div className="container-custom relative z-10 py-32 md:py-0">
+        <div className="max-w-3xl">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.1 }}
+            className="inline-block mb-6"
+          >
+            <span className="inline-flex items-center px-4 py-2 rounded-full bg-white/10 text-warm/80 text-sm font-medium tracking-wide border border-white/10">
+              Официальный дилер Archin
+            </span>
+          </motion.div>
+
+          <motion.h1
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-heading font-bold text-white leading-[1.05] mb-6"
+          >
+            Строительные
+            <br />
+            материалы{" "}
+            <span className="text-accent">Archin</span>
+          </motion.h1>
+
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.35 }}
+            className="text-lg md:text-xl text-warm/70 mb-10 max-w-xl leading-relaxed"
+          >
+            Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки,
+            плиточные клеи и гидроизоляция. Дилерские цены.
+          </motion.p>
+
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.5 }}
+            className="flex flex-col sm:flex-row gap-4"
+          >
+            <Link href="/catalog">
+              <Button variant="primary" size="lg">
+                Смотреть каталог
+              </Button>
+            </Link>
+            <Link href="#contacts">
+              <Button
+                variant="secondary"
+                size="lg"
+                className="border-white/30 text-white hover:bg-white hover:text-text"
+              >
+                Получить консультацию
+              </Button>
+            </Link>
+          </motion.div>
+        </div>
+      </div>
+
+      {/* Scroll down indicator */}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 1, duration: 0.6 }}
+        className="absolute bottom-8 left-1/2 -translate-x-1/2"
+      >
+        <motion.div
+          animate={{ y: [0, 8, 0] }}
+          transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
+        >
+          <ChevronDown className="w-6 h-6 text-warm/40" />
+        </motion.div>
+      </motion.div>
+    </section>
+  );
+}

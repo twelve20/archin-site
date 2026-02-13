@@ -1,1 +1,77 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VDYWxsYmFjaywgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBtb3Rpb24sIEFuaW1hdGVQcmVzZW5jZSB9IGZyb20gImZyYW1lci1tb3Rpb24iOwppbXBvcnQgeyBYIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgTW9kYWxQcm9wcyB7CiAgaXNPcGVuOiBib29sZWFuOwogIG9uQ2xvc2U6ICgpID0+IHZvaWQ7CiAgdGl0bGU/OiBzdHJpbmc7CiAgY2hpbGRyZW46IFJlYWN0Tm9kZTsKICBjbGFzc05hbWU/OiBzdHJpbmc7Cn0KCmV4cG9ydCBmdW5jdGlvbiBNb2RhbCh7IGlzT3Blbiwgb25DbG9zZSwgdGl0bGUsIGNoaWxkcmVuLCBjbGFzc05hbWUgfTogTW9kYWxQcm9wcykgewogIGNvbnN0IGhhbmRsZUVzY2FwZSA9IHVzZUNhbGxiYWNrKAogICAgKGU6IEtleWJvYXJkRXZlbnQpID0+IHsKICAgICAgaWYgKGUua2V5ID09PSAiRXNjYXBlIikgb25DbG9zZSgpOwogICAgfSwKICAgIFtvbkNsb3NlXQogICk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoaXNPcGVuKSB7CiAgICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImtleWRvd24iLCBoYW5kbGVFc2NhcGUpOwogICAgICBkb2N1bWVudC5ib2R5LnN0eWxlLm92ZXJmbG93ID0gImhpZGRlbiI7CiAgICB9CiAgICByZXR1cm4gKCkgPT4gewogICAgICBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCJrZXlkb3duIiwgaGFuZGxlRXNjYXBlKTsKICAgICAgZG9jdW1lbnQuYm9keS5zdHlsZS5vdmVyZmxvdyA9ICIiOwogICAgfTsKICB9LCBbaXNPcGVuLCBoYW5kbGVFc2NhcGVdKTsKCiAgcmV0dXJuICgKICAgIDxBbmltYXRlUHJlc2VuY2U+CiAgICAgIHtpc09wZW4gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmaXhlZCBpbnNldC0wIHotNTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcC00Ij4KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0KICAgICAgICAgICAgZXhpdD17eyBvcGFjaXR5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMiB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNTAgYmFja2Ryb3AtYmx1ci1zbSIKICAgICAgICAgICAgb25DbGljaz17b25DbG9zZX0KICAgICAgICAgIC8+CiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHNjYWxlOiAwLjk1LCB5OiAyMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHNjYWxlOiAxLCB5OiAwIH19CiAgICAgICAgICAgIGV4aXQ9e3sgb3BhY2l0eTogMCwgc2NhbGU6IDAuOTUsIHk6IDIwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMywgZWFzZTogImVhc2VPdXQiIH19CiAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgInJlbGF0aXZlIHctZnVsbCBtYXgtdy1sZyBiZy13aGl0ZSByb3VuZGVkLWNhcmQgc2hhZG93LW1vZGFsIHAtNiBtZDpwLTggbWF4LWgtWzkwdmhdIG92ZXJmbG93LXktYXV0byIsCiAgICAgICAgICAgICAgY2xhc3NOYW1lCiAgICAgICAgICAgICl9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItNiI+CiAgICAgICAgICAgICAge3RpdGxlICYmICgKICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQteGwgZm9udC1oZWFkaW5nIGZvbnQtc2VtaWJvbGQgdGV4dC10ZXh0Ij4KICAgICAgICAgICAgICAgICAge3RpdGxlfQogICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im1sLWF1dG8gcC0yIHJvdW5kZWQtZnVsbCBob3ZlcjpiZy1zZWNvbmRhcnkgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSLQl9Cw0LrRgNGL0YLRjCIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8WCBjbGFzc05hbWU9InctNSBoLTUgdGV4dC10ZXh0LWxpZ2h0IiAvPgogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9BbmltYXRlUHJlc2VuY2U+CiAgKTsKfQo="}
+"use client";
+
+import { useEffect, useCallback, ReactNode } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { X } from "lucide-react";
+import { cn } from "@/lib/utils";
+
+interface ModalProps {
+  isOpen: boolean;
+  onClose: () => void;
+  title?: string;
+  children: ReactNode;
+  className?: string;
+}
+
+export function Modal({ isOpen, onClose, title, children, className }: ModalProps) {
+  const handleEscape = useCallback(
+    (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    },
+    [onClose]
+  );
+
+  useEffect(() => {
+    if (isOpen) {
+      document.addEventListener("keydown", handleEscape);
+      document.body.style.overflow = "hidden";
+    }
+    return () => {
+      document.removeEventListener("keydown", handleEscape);
+      document.body.style.overflow = "";
+    };
+  }, [isOpen, handleEscape]);
+
+  return (
+    <AnimatePresence>
+      {isOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            className="absolute inset-0 bg-black/50 backdrop-blur-sm"
+            onClick={onClose}
+          />
+          <motion.div
+            initial={{ opacity: 0, scale: 0.95, y: 20 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.95, y: 20 }}
+            transition={{ duration: 0.3, ease: "easeOut" }}
+            className={cn(
+              "relative w-full max-w-lg bg-white rounded-card shadow-modal p-6 md:p-8 max-h-[90vh] overflow-y-auto",
+              className
+            )}
+          >
+            <div className="flex items-center justify-between mb-6">
+              {title && (
+                <h3 className="text-xl font-heading font-semibold text-text">
+                  {title}
+                </h3>
+              )}
+              <button
+                onClick={onClose}
+                className="ml-auto p-2 rounded-full hover:bg-secondary transition-colors"
+                aria-label="Закрыть"
+              >
+                <X className="w-5 h-5 text-text-light" />
+              </button>
+            </div>
+            {children}
+          </motion.div>
+        </div>
+      )}
+    </AnimatePresence>
+  );
+}

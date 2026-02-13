@@ -1,1 +1,45 @@
-{"data":"aW1wb3J0IHR5cGUgeyBDb25maWcgfSBmcm9tICJ0YWlsd2luZGNzcyI7CgpleHBvcnQgZGVmYXVsdCB7CiAgY29udGVudDogWwogICAgIi4vYXBwLyoqLyoue2pzLHRzLGpzeCx0c3gsbWR4fSIsCiAgICAiLi9jb21wb25lbnRzLyoqLyoue2pzLHRzLGpzeCx0c3gsbWR4fSIsCiAgXSwKICB0aGVtZTogewogICAgZXh0ZW5kOiB7CiAgICAgIGNvbG9yczogewogICAgICAgIHByaW1hcnk6ICIjMWExYTFhIiwKICAgICAgICBhY2NlbnQ6IHsKICAgICAgICAgIERFRkFVTFQ6ICIjQzQ1QTNDIiwKICAgICAgICAgIGhvdmVyOiAiI0E4NDgyRiIsCiAgICAgICAgICBsaWdodDogIiNENDcxNUEiLAogICAgICAgIH0sCiAgICAgICAgd2FybTogIiNGQUZBRjgiLAogICAgICAgIHNlY29uZGFyeTogIiNGMEVFRUIiLAogICAgICAgIHRleHQ6IHsKICAgICAgICAgIERFRkFVTFQ6ICIjMkQyRDJEIiwKICAgICAgICAgIGxpZ2h0OiAiIzZCNkI2QiIsCiAgICAgICAgICBtdXRlZDogIiM5OTk5OTkiLAogICAgICAgIH0sCiAgICAgICAgYm9yZGVyOiAiI0U1RTNFMCIsCiAgICAgIH0sCiAgICAgIGZvbnRGYW1pbHk6IHsKICAgICAgICBzYW5zOiBbInZhcigtLWZvbnQtaW50ZXIpIiwgInN5c3RlbS11aSIsICJzYW5zLXNlcmlmIl0sCiAgICAgICAgaGVhZGluZzogWyJ2YXIoLS1mb250LW1vbnRzZXJyYXQpIiwgInZhcigtLWZvbnQtaW50ZXIpIiwgInNhbnMtc2VyaWYiXSwKICAgICAgfSwKICAgICAgYm9yZGVyUmFkaXVzOiB7CiAgICAgICAgY2FyZDogIjE2cHgiLAogICAgICAgIGJ1dHRvbjogIjEycHgiLAogICAgICB9LAogICAgICBib3hTaGFkb3c6IHsKICAgICAgICBjYXJkOiAiMCA0cHggMjRweCByZ2JhKDAsIDAsIDAsIDAuMDYpIiwKICAgICAgICAiY2FyZC1ob3ZlciI6ICIwIDhweCA0MHB4IHJnYmEoMCwgMCwgMCwgMC4xMikiLAogICAgICAgIG1vZGFsOiAiMCAyNHB4IDgwcHggcmdiYSgwLCAwLCAwLCAwLjE1KSIsCiAgICAgIH0sCiAgICAgIG1heFdpZHRoOiB7CiAgICAgICAgY29udGFpbmVyOiAiMTI4MHB4IiwKICAgICAgfSwKICAgIH0sCiAgfSwKICBwbHVnaW5zOiBbXSwKfSBzYXRpc2ZpZXMgQ29uZmlnOwo="}
+import type { Config } from "tailwindcss";
+
+export default {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        primary: "#1a1a1a",
+        accent: {
+          DEFAULT: "#C45A3C",
+          hover: "#A8482F",
+          light: "#D4715A",
+        },
+        warm: "#FAFAF8",
+        secondary: "#F0EEEB",
+        text: {
+          DEFAULT: "#2D2D2D",
+          light: "#6B6B6B",
+          muted: "#999999",
+        },
+        border: "#E5E3E0",
+      },
+      fontFamily: {
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+        heading: ["var(--font-montserrat)", "var(--font-inter)", "sans-serif"],
+      },
+      borderRadius: {
+        card: "16px",
+        button: "12px",
+      },
+      boxShadow: {
+        card: "0 4px 24px rgba(0, 0, 0, 0.06)",
+        "card-hover": "0 8px 40px rgba(0, 0, 0, 0.12)",
+        modal: "0 24px 80px rgba(0, 0, 0, 0.15)",
+      },
+      maxWidth: {
+        container: "1280px",
+      },
+    },
+  },
+  plugins: [],
+} satisfies Config;

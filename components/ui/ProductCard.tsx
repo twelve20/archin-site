@@ -1,1 +1,61 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEltYWdlIGZyb20gIm5leHQvaW1hZ2UiOwppbXBvcnQgeyBQcm9kdWN0IH0gZnJvbSAiQC90eXBlcyI7CmltcG9ydCB7IENhcmQgfSBmcm9tICIuL0NhcmQiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIi4vQmFkZ2UiOwppbXBvcnQgeyBBcnJvd1JpZ2h0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmludGVyZmFjZSBQcm9kdWN0Q2FyZFByb3BzIHsKICBwcm9kdWN0OiBQcm9kdWN0Owp9CgpleHBvcnQgZnVuY3Rpb24gUHJvZHVjdENhcmQoeyBwcm9kdWN0IH06IFByb2R1Y3RDYXJkUHJvcHMpIHsKICByZXR1cm4gKAogICAgPENhcmQgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGgtZnVsbCBncm91cCI+CiAgICAgIDxMaW5rIGhyZWY9e2AvY2F0YWxvZy8ke3Byb2R1Y3Quc2x1Z31gfT4KICAgICAgICA8ZGl2CiAgICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIGgtNjQgdy1mdWxsIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLXQtY2FyZCIKICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGJhY2tncm91bmQ6IGBsaW5lYXItZ3JhZGllbnQoMTQ1ZGVnLCAke3Byb2R1Y3QuZ3JhZGllbnRGcm9tfTQwIDAlLCAke3Byb2R1Y3QuZ3JhZGllbnRUb30yNSAxMDAlKWAsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIHsvKiBEZWNvcmF0aXZlIGNpcmNsZSAqL30KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSAtYm90dG9tLTEwIC1yaWdodC0xMCB3LTQwIGgtNDAgcm91bmRlZC1mdWxsIG9wYWNpdHktMjAiCiAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6IHByb2R1Y3QuZ3JhZGllbnRUbyB9fQogICAgICAgICAgLz4KICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICBzcmM9e3Byb2R1Y3QuaW1hZ2V9CiAgICAgICAgICAgIGFsdD17cHJvZHVjdC5uYW1lfQogICAgICAgICAgICBmaWxsCiAgICAgICAgICAgIHNpemVzPSIobWF4LXdpZHRoOiA2NDBweCkgMTAwdncsIChtYXgtd2lkdGg6IDEwMjRweCkgNTB2dywgMjV2dyIKICAgICAgICAgICAgY2xhc3NOYW1lPSJvYmplY3QtY29udGFpbiBwLTYgZHJvcC1zaGFkb3ctbGcgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tNTAwIGdyb3VwLWhvdmVyOnNjYWxlLTExMCIKICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvTGluaz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgZmxleC0xIHAtNSI+CiAgICAgICAgPEJhZGdlIGNsYXNzTmFtZT0ic2VsZi1zdGFydCBtYi0zIj57cHJvZHVjdC5jYXRlZ29yeU5hbWV9PC9CYWRnZT4KICAgICAgICA8TGluayBocmVmPXtgL2NhdGFsb2cvJHtwcm9kdWN0LnNsdWd9YH0+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWhlYWRpbmcgZm9udC1zZW1pYm9sZCB0ZXh0LXRleHQgdGV4dC1iYXNlIGxlYWRpbmctc251ZyBtYi0yIGdyb3VwLWhvdmVyOnRleHQtYWNjZW50IHRyYW5zaXRpb24tY29sb3JzIj4KICAgICAgICAgICAge3Byb2R1Y3QubmFtZX0KICAgICAgICAgIDwvaDM+CiAgICAgICAgPC9MaW5rPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXRleHQtbGlnaHQgbWItNCBmbGV4LTEgbGluZS1jbGFtcC0yIj4KICAgICAgICAgIHtwcm9kdWN0LnNob3J0RGVzY3JpcHRpb259CiAgICAgICAgPC9wPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbXQtYXV0byI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LXRleHQiPgogICAgICAgICAgICB7cHJvZHVjdC5wcmljZS50b0xvY2FsZVN0cmluZygicnUtUlUiKX0g4oK9CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8TGluawogICAgICAgICAgICBocmVmPXtgL2NhdGFsb2cvJHtwcm9kdWN0LnNsdWd9YH0KICAgICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtYWNjZW50IGhvdmVyOnRleHQtYWNjZW50LWhvdmVyIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgPgogICAgICAgICAgICDQn9C+0LTRgNC+0LHQvdC10LUKICAgICAgICAgICAgPEFycm93UmlnaHQgY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgPC9MaW5rPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvQ2FyZD4KICApOwp9Cg=="}
+import Link from "next/link";
+import Image from "next/image";
+import { Product } from "@/types";
+import { Card } from "./Card";
+import { Badge } from "./Badge";
+import { ArrowRight } from "lucide-react";
+
+interface ProductCardProps {
+  product: Product;
+}
+
+export function ProductCard({ product }: ProductCardProps) {
+  return (
+    <Card className="flex flex-col h-full group">
+      <Link href={`/catalog/${product.slug}`}>
+        <div
+          className="relative h-64 w-full overflow-hidden rounded-t-card"
+          style={{
+            background: `linear-gradient(145deg, ${product.gradientFrom}40 0%, ${product.gradientTo}25 100%)`,
+          }}
+        >
+          {/* Decorative circle */}
+          <div
+            className="absolute -bottom-10 -right-10 w-40 h-40 rounded-full opacity-20"
+            style={{ background: product.gradientTo }}
+          />
+          <Image
+            src={product.image}
+            alt={product.name}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+            className="object-contain p-6 drop-shadow-lg transition-transform duration-500 group-hover:scale-110"
+          />
+        </div>
+      </Link>
+      <div className="flex flex-col flex-1 p-5">
+        <Badge className="self-start mb-3">{product.categoryName}</Badge>
+        <Link href={`/catalog/${product.slug}`}>
+          <h3 className="font-heading font-semibold text-text text-base leading-snug mb-2 group-hover:text-accent transition-colors">
+            {product.name}
+          </h3>
+        </Link>
+        <p className="text-sm text-text-light mb-4 flex-1 line-clamp-2">
+          {product.shortDescription}
+        </p>
+        <div className="flex items-center justify-between mt-auto">
+          <span className="text-lg font-heading font-bold text-text">
+            {product.price.toLocaleString("ru-RU")} ₽
+          </span>
+          <Link
+            href={`/catalog/${product.slug}`}
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:text-accent-hover transition-colors"
+          >
+            Подробнее
+            <ArrowRight className="w-4 h-4" />
+          </Link>
+        </div>
+      </div>
+    </Card>
+  );
+}

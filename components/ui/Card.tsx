@@ -1,1 +1,22 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgQ2FyZFByb3BzIHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwogIGNsYXNzTmFtZT86IHN0cmluZzsKICBob3Zlcj86IGJvb2xlYW47Cn0KCmV4cG9ydCBmdW5jdGlvbiBDYXJkKHsgY2hpbGRyZW4sIGNsYXNzTmFtZSwgaG92ZXIgPSB0cnVlIH06IENhcmRQcm9wcykgewogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImJnLXdoaXRlIHJvdW5kZWQtY2FyZCBzaGFkb3ctY2FyZCBvdmVyZmxvdy1oaWRkZW4iLAogICAgICAgIGhvdmVyICYmCiAgICAgICAgICAidHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIGhvdmVyOnNoYWRvdy1jYXJkLWhvdmVyIGhvdmVyOi10cmFuc2xhdGUteS0xIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgID4KICAgICAge2NoaWxkcmVufQogICAgPC9kaXY+CiAgKTsKfQo="}
+import { cn } from "@/lib/utils";
+
+interface CardProps {
+  children: React.ReactNode;
+  className?: string;
+  hover?: boolean;
+}
+
+export function Card({ children, className, hover = true }: CardProps) {
+  return (
+    <div
+      className={cn(
+        "bg-white rounded-card shadow-card overflow-hidden",
+        hover &&
+          "transition-all duration-300 hover:shadow-card-hover hover:-translate-y-1",
+        className
+      )}
+    >
+      {children}
+    </div>
+  );
+}

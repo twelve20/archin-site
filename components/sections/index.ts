@@ -1,1 +1,6 @@
-{"data":"ZXhwb3J0IHsgSGVybyB9IGZyb20gIi4vSGVybyI7CmV4cG9ydCB7IENhdGVnb3JpZXMgfSBmcm9tICIuL0NhdGVnb3JpZXMiOwpleHBvcnQgeyBCZW5lZml0cyB9IGZyb20gIi4vQmVuZWZpdHMiOwpleHBvcnQgeyBQb3B1bGFyUHJvZHVjdHMgfSBmcm9tICIuL1BvcHVsYXJQcm9kdWN0cyI7CmV4cG9ydCB7IEFib3V0QnJhbmQgfSBmcm9tICIuL0Fib3V0QnJhbmQiOwpleHBvcnQgeyBDVEFTZWN0aW9uIH0gZnJvbSAiLi9DVEFTZWN0aW9uIjsK"}
+export { Hero } from "./Hero";
+export { Categories } from "./Categories";
+export { Benefits } from "./Benefits";
+export { PopularProducts } from "./PopularProducts";
+export { AboutBrand } from "./AboutBrand";
+export { CTASection } from "./CTASection";

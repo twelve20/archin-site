@@ -1,1 +1,50 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgQ2hldnJvblJpZ2h0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQnJlYWRjcnVtYkl0ZW0gfSBmcm9tICJAL3R5cGVzIjsKCmludGVyZmFjZSBCcmVhZGNydW1ic1Byb3BzIHsKICBpdGVtczogQnJlYWRjcnVtYkl0ZW1bXTsKfQoKZXhwb3J0IGZ1bmN0aW9uIEJyZWFkY3J1bWJzKHsgaXRlbXMgfTogQnJlYWRjcnVtYnNQcm9wcykgewogIGNvbnN0IGpzb25MZCA9IHsKICAgICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICAgIkB0eXBlIjogIkJyZWFkY3J1bWJMaXN0IiwKICAgIGl0ZW1MaXN0RWxlbWVudDogaXRlbXMubWFwKChpdGVtLCBpbmRleCkgPT4gKHsKICAgICAgIkB0eXBlIjogIkxpc3RJdGVtIiwKICAgICAgcG9zaXRpb246IGluZGV4ICsgMSwKICAgICAgbmFtZTogaXRlbS5sYWJlbCwKICAgICAgLi4uKGl0ZW0uaHJlZiAmJiB7IGl0ZW06IGBodHRwczovL3Nsb2kucnUke2l0ZW0uaHJlZn1gIH0pLAogICAgfSkpLAogIH07CgogIHJldHVybiAoCiAgICA8PgogICAgICA8c2NyaXB0CiAgICAgICAgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiIKICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGpzb25MZCkgfX0KICAgICAgLz4KICAgICAgPG5hdiBhcmlhLWxhYmVsPSJCcmVhZGNydW1iIiBjbGFzc05hbWU9Im1iLTYiPgogICAgICAgIDxvbCBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGZsZXgtd3JhcCBnYXAtMS41IHRleHQtc20gdGV4dC10ZXh0LWxpZ2h0Ij4KICAgICAgICAgIHtpdGVtcy5tYXAoKGl0ZW0sIGluZGV4KSA9PiAoCiAgICAgICAgICAgIDxsaSBrZXk9e2luZGV4fSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUiPgogICAgICAgICAgICAgIHtpbmRleCA+IDAgJiYgKAogICAgICAgICAgICAgICAgPENoZXZyb25SaWdodCBjbGFzc05hbWU9InctMy41IGgtMy41IHRleHQtdGV4dC1tdXRlZCIgLz4KICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIHtpdGVtLmhyZWYgPyAoCiAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICBocmVmPXtpdGVtLmhyZWZ9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaG92ZXI6dGV4dC1hY2NlbnQgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtdGV4dCBmb250LW1lZGl1bSI+e2l0ZW0ubGFiZWx9PC9zcGFuPgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApKX0KICAgICAgICA8L29sPgogICAgICA8L25hdj4KICAgIDwvPgogICk7Cn0K"}
+import Link from "next/link";
+import { ChevronRight } from "lucide-react";
+import { BreadcrumbItem } from "@/types";
+
+interface BreadcrumbsProps {
+  items: BreadcrumbItem[];
+}
+
+export function Breadcrumbs({ items }: BreadcrumbsProps) {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.label,
+      ...(item.href && { item: `https://sloi.ru${item.href}` }),
+    })),
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <nav aria-label="Breadcrumb" className="mb-6">
+        <ol className="flex items-center flex-wrap gap-1.5 text-sm text-text-light">
+          {items.map((item, index) => (
+            <li key={index} className="flex items-center gap-1.5">
+              {index > 0 && (
+                <ChevronRight className="w-3.5 h-3.5 text-text-muted" />
+              )}
+              {item.href ? (
+                <Link
+                  href={item.href}
+                  className="hover:text-accent transition-colors"
+                >
+                  {item.label}
+                </Link>
+              ) : (
+                <span className="text-text font-medium">{item.label}</span>
+              )}
+            </li>
+          ))}
+        </ol>
+      </nav>
+    </>
+  );
+}
