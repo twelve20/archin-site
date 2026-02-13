@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7CmltcG9ydCB7IHByb2R1Y3RzIH0gZnJvbSAiQC9kYXRhL3Byb2R1Y3RzIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIHNpdGVtYXAoKTogTWV0YWRhdGFSb3V0ZS5TaXRlbWFwIHsKICBjb25zdCBiYXNlVXJsID0gImh0dHBzOi8vc2xvaS5ydSI7CgogIGNvbnN0IHByb2R1Y3RVcmxzID0gcHJvZHVjdHMubWFwKChwcm9kdWN0KSA9PiAoewogICAgdXJsOiBgJHtiYXNlVXJsfS9jYXRhbG9nLyR7cHJvZHVjdC5zbHVnfWAsCiAgICBsYXN0TW9kaWZpZWQ6IG5ldyBEYXRlKCksCiAgICBjaGFuZ2VGcmVxdWVuY3k6ICJtb250aGx5IiBhcyBjb25zdCwKICAgIHByaW9yaXR5OiAwLjcsCiAgfSkpOwoKICByZXR1cm4gWwogICAgewogICAgICB1cmw6IGJhc2VVcmwsCiAgICAgIGxhc3RNb2RpZmllZDogbmV3IERhdGUoKSwKICAgICAgY2hhbmdlRnJlcXVlbmN5OiAid2Vla2x5IiwKICAgICAgcHJpb3JpdHk6IDEuMCwKICAgIH0sCiAgICB7CiAgICAgIHVybDogYCR7YmFzZVVybH0vY2F0YWxvZ2AsCiAgICAgIGxhc3RNb2RpZmllZDogbmV3IERhdGUoKSwKICAgICAgY2hhbmdlRnJlcXVlbmN5OiAid2Vla2x5IiwKICAgICAgcHJpb3JpdHk6IDAuOSwKICAgIH0sCiAgICAuLi5wcm9kdWN0VXJscywKICBdOwp9Cg=="}
+import type { MetadataRoute } from "next";
+import { products } from "@/data/products";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://sloi.ru";
+
+  const productUrls = products.map((product) => ({
+    url: `${baseUrl}/catalog/${product.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [
+    {
+      url: baseUrl,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 1.0,
+    },
+    {
+      url: `${baseUrl}/catalog`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    ...productUrls,
+  ];
+}

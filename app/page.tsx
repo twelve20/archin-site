@@ -1,1 +1,43 @@
-{"data":"aW1wb3J0IHsKICBIZXJvLAogIENhdGVnb3JpZXMsCiAgQmVuZWZpdHMsCiAgUG9wdWxhclByb2R1Y3RzLAogIEFib3V0QnJhbmQsCiAgQ1RBU2VjdGlvbiwKfSBmcm9tICJAL2NvbXBvbmVudHMvc2VjdGlvbnMiOwoKY29uc3QganNvbkxkID0gewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogIG5hbWU6ICJTTE9JIiwKICBsZWdhbE5hbWU6ICLQntCe0J4gwqvQntCb0J3QkNCh0KIg0JPQoNCj0J/Qn8K7IiwKICBkZXNjcmlwdGlvbjoKICAgICLQntGE0LjRhtC40LDQu9GM0L3Ri9C5INC00LjQu9C10YAg0YHRgtGA0L7QuNGC0LXQu9GM0L3Ri9GFINC80LDRgtC10YDQuNCw0LvQvtCyIEFyY2hpbiDQsiDQnNC+0YHQutCy0LUg0Lgg0JzQvtGB0LrQvtCy0YHQutC+0Lkg0L7QsdC70LDRgdGC0LguINCo0YLRg9C60LDRgtGD0YDQutC4LCDRiNC/0LDRgtC70ZHQstC60LgsINC00LXQutC+0YDQsNGC0LjQstC90YvQtSDQv9C+0LrRgNGL0YLQuNGPLCDQutGA0LDRgdC60LgsINCz0YDRg9C90YLQvtCy0LrQuCwg0L/Qu9C40YLQvtGH0L3Ri9C1INC60LvQtdC4LCDQs9C40LTRgNC+0LjQt9C+0LvRj9GG0LjRjy4iLAogIHVybDogImh0dHBzOi8vc2xvaS5ydSIsCiAgdGVsZXBob25lOiAiKzcgKDk2MykgOTI3LTMxLTI0IiwKICBlbWFpbDogIm9sbmFzdC5ydUB5YW5kZXgucnUiLAogIGFkZHJlc3M6IHsKICAgICJAdHlwZSI6ICJQb3N0YWxBZGRyZXNzIiwKICAgIGFkZHJlc3NSZWdpb246ICLQnNC+0YHQutCy0LAg0Lgg0JzQvtGB0LrQvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwiLAogICAgYWRkcmVzc0NvdW50cnk6ICJSVSIsCiAgfSwKICBvcGVuaW5nSG91cnM6ICJNby1TdSAwODowMC0yMDowMCIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lUGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPHNjcmlwdAogICAgICAgIHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iCiAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sgX19odG1sOiBKU09OLnN0cmluZ2lmeShqc29uTGQpIH19CiAgICAgIC8+CiAgICAgIDxIZXJvIC8+CiAgICAgIDxDYXRlZ29yaWVzIC8+CiAgICAgIDxCZW5lZml0cyAvPgogICAgICA8UG9wdWxhclByb2R1Y3RzIC8+CiAgICAgIDxBYm91dEJyYW5kIC8+CiAgICAgIDxDVEFTZWN0aW9uIC8+CiAgICA8Lz4KICApOwp9Cg=="}
+import {
+  Hero,
+  Categories,
+  Benefits,
+  PopularProducts,
+  AboutBrand,
+  CTASection,
+} from "@/components/sections";
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "SLOI",
+  legalName: "ООО «ОЛНАСТ ГРУПП»",
+  description:
+    "Официальный дилер строительных материалов Archin в Москве и Московской области. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция.",
+  url: "https://sloi.ru",
+  telephone: "+7 (963) 927-31-24",
+  email: "olnast.ru@yandex.ru",
+  address: {
+    "@type": "PostalAddress",
+    addressRegion: "Москва и Московская область",
+    addressCountry: "RU",
+  },
+  openingHours: "Mo-Su 08:00-20:00",
+};
+
+export default function HomePage() {
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Hero />
+      <Categories />
+      <Benefits />
+      <PopularProducts />
+      <AboutBrand />
+      <CTASection />
+    </>
+  );
+}

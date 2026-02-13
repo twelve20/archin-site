@@ -1,1 +1,74 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBJbnRlciwgTW9udHNlcnJhdCB9IGZyb20gIm5leHQvZm9udC9nb29nbGUiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwppbXBvcnQgeyBIZWFkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvbGF5b3V0L0hlYWRlciI7CmltcG9ydCB7IEZvb3RlciB9IGZyb20gIkAvY29tcG9uZW50cy9sYXlvdXQvRm9vdGVyIjsKCmNvbnN0IGludGVyID0gSW50ZXIoewogIHN1YnNldHM6IFsibGF0aW4iLCAiY3lyaWxsaWMiXSwKICB2YXJpYWJsZTogIi0tZm9udC1pbnRlciIsCiAgZGlzcGxheTogInN3YXAiLAp9KTsKCmNvbnN0IG1vbnRzZXJyYXQgPSBNb250c2VycmF0KHsKICBzdWJzZXRzOiBbImxhdGluIiwgImN5cmlsbGljIl0sCiAgdmFyaWFibGU6ICItLWZvbnQtbW9udHNlcnJhdCIsCiAgZGlzcGxheTogInN3YXAiLAp9KTsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgbWV0YWRhdGFCYXNlOiBuZXcgVVJMKCJodHRwczovL3Nsb2kucnUiKSwKICB0aXRsZTogewogICAgZGVmYXVsdDogIlNMT0kg4oCUINCe0YTQuNGG0LjQsNC70YzQvdGL0Lkg0LTQuNC70LXRgCBBcmNoaW4g0LIg0JzQvtGB0LrQstC1INC4INCc0J4iLAogICAgdGVtcGxhdGU6ICIlcyB8IFNMT0kg4oCUINC00LjQu9C10YAgQXJjaGluIiwKICB9LAogIGRlc2NyaXB0aW9uOgogICAgIlNMT0kgKNCe0J7QniDCq9Ce0JvQndCQ0KHQoiDQk9Cg0KPQn9CfwrspIOKAlCDQvtGE0LjRhtC40LDQu9GM0L3Ri9C5INC00LjQu9C10YAg0YHRgtGA0L7QuNGC0LXQu9GM0L3Ri9GFINC80LDRgtC10YDQuNCw0LvQvtCyIEFyY2hpbiDQsiDQnNC+0YHQutCy0LUg0Lgg0JzQvtGB0LrQvtCy0YHQutC+0Lkg0L7QsdC70LDRgdGC0LguINCo0YLRg9C60LDRgtGD0YDQutC4LCDRiNC/0LDRgtC70ZHQstC60LgsINC00LXQutC+0YDQsNGC0LjQstC90YvQtSDQv9C+0LrRgNGL0YLQuNGPLCDQutGA0LDRgdC60LgsINCz0YDRg9C90YLQvtCy0LrQuCwg0L/Qu9C40YLQvtGH0L3Ri9C1INC60LvQtdC4LCDQs9C40LTRgNC+0LjQt9C+0LvRj9GG0LjRjy4g0JTQuNC70LXRgNGB0LrQuNC1INGG0LXQvdGLLiIsCiAga2V5d29yZHM6IFsKICAgICJBcmNoaW4iLAogICAgItCQ0YDRhdC40L0iLAogICAgItC+0YTQuNGG0LjQsNC70YzQvdGL0Lkg0LTQuNC70LXRgCBBcmNoaW4iLAogICAgItGB0YLRgNC+0LjRgtC10LvRjNC90YvQtSDQvNCw0YLQtdGA0LjQsNC70Ysg0JzQvtGB0LrQstCwIiwKICAgICLRiNGC0YPQutCw0YLRg9GA0LrQsCBBcmNoaW4iLAogICAgItGI0L/QsNGC0LvRkdCy0LrQsCBBcmNoaW4iLAogICAgItC00LXQutC+0YDQsNGC0LjQstC90LDRjyDRiNGC0YPQutCw0YLRg9GA0LrQsCIsCiAgICAi0LrRgNCw0YHQutCwIEFyY2hpbiIsCiAgICAi0LPRgNGD0L3RgtC+0LLQutCwIEFyY2hpbiIsCiAgICAi0L/Qu9C40YLQvtGH0L3Ri9C5INC60LvQtdC5IiwKICAgICLQs9C40LTRgNC+0LjQt9C+0LvRj9GG0LjRjyIsCiAgICAi0LrRg9C/0LjRgtGMINCQ0YDRhdC40L0g0JzQvtGB0LrQstCwIiwKICAgICJTTE9JIiwKICAgICLQntCb0J3QkNCh0KIg0JPQoNCj0J/QnyIsCiAgXSwKICBvcGVuR3JhcGg6IHsKICAgIHR5cGU6ICJ3ZWJzaXRlIiwKICAgIGxvY2FsZTogInJ1X1JVIiwKICAgIHNpdGVOYW1lOiAiU0xPSSIsCiAgICB0aXRsZTogIlNMT0kg4oCUINCe0YTQuNGG0LjQsNC70YzQvdGL0Lkg0LTQuNC70LXRgCBBcmNoaW4g0LIg0JzQvtGB0LrQstC1INC4INCc0J4iLAogICAgZGVzY3JpcHRpb246CiAgICAgICLQntCe0J4gwqvQntCb0J3QkNCh0KIg0JPQoNCj0J/Qn8K7IOKAlCDQvtGE0LjRhtC40LDQu9GM0L3Ri9C5INC00LjQu9C10YAg0KLQnCBBcmNoaW4uINCo0YLRg9C60LDRgtGD0YDQutC4LCDRiNC/0LDRgtC70ZHQstC60LgsINC00LXQutC+0YDQsNGC0LjQstC90YvQtSDQv9C+0LrRgNGL0YLQuNGPLCDQutGA0LDRgdC60LgsINCz0YDRg9C90YLQvtCy0LrQuCwg0L/Qu9C40YLQvtGH0L3Ri9C1INC60LvQtdC4LCDQs9C40LTRgNC+0LjQt9C+0LvRj9GG0LjRjy4g0JTQuNC70LXRgNGB0LrQuNC1INGG0LXQvdGLLiIsCiAgfSwKICB0d2l0dGVyOiB7CiAgICBjYXJkOiAic3VtbWFyeV9sYXJnZV9pbWFnZSIsCiAgfSwKICByb2JvdHM6IHsKICAgIGluZGV4OiB0cnVlLAogICAgZm9sbG93OiB0cnVlLAogIH0sCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsKICBjaGlsZHJlbiwKfTogewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7Cn0pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0icnUiIGNsYXNzTmFtZT17YCR7aW50ZXIudmFyaWFibGV9ICR7bW9udHNlcnJhdC52YXJpYWJsZX1gfT4KICAgICAgPGJvZHkgY2xhc3NOYW1lPSJmb250LXNhbnMgYW50aWFsaWFzZWQgYmctd2FybSB0ZXh0LXRleHQiPgogICAgICAgIDxIZWFkZXIgLz4KICAgICAgICA8bWFpbj57Y2hpbGRyZW59PC9tYWluPgogICAgICAgIDxGb290ZXIgLz4KICAgICAgPC9ib2R5PgogICAgPC9odG1sPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import { Inter, Montserrat } from "next/font/google";
+import "./globals.css";
+import { Header } from "@/components/layout/Header";
+import { Footer } from "@/components/layout/Footer";
+
+const inter = Inter({
+  subsets: ["latin", "cyrillic"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+const montserrat = Montserrat({
+  subsets: ["latin", "cyrillic"],
+  variable: "--font-montserrat",
+  display: "swap",
+});
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://sloi.ru"),
+  title: {
+    default: "SLOI — Официальный дилер Archin в Москве и МО",
+    template: "%s | SLOI — дилер Archin",
+  },
+  description:
+    "SLOI (ООО «ОЛНАСТ ГРУПП») — официальный дилер строительных материалов Archin в Москве и Московской области. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены.",
+  keywords: [
+    "Archin",
+    "Архин",
+    "официальный дилер Archin",
+    "строительные материалы Москва",
+    "штукатурка Archin",
+    "шпатлёвка Archin",
+    "декоративная штукатурка",
+    "краска Archin",
+    "грунтовка Archin",
+    "плиточный клей",
+    "гидроизоляция",
+    "купить Архин Москва",
+    "SLOI",
+    "ОЛНАСТ ГРУПП",
+  ],
+  openGraph: {
+    type: "website",
+    locale: "ru_RU",
+    siteName: "SLOI",
+    title: "SLOI — Официальный дилер Archin в Москве и МО",
+    description:
+      "ООО «ОЛНАСТ ГРУПП» — официальный дилер ТМ Archin. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены.",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="ru" className={`${inter.variable} ${montserrat.variable}`}>
+      <body className="font-sans antialiased bg-warm text-text">
+        <Header />
+        <main>{children}</main>
+        <Footer />
+      </body>
+    </html>
+  );
+}

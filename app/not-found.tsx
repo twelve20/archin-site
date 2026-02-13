@@ -1,1 +1,26 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL0J1dHRvbiI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBOb3RGb3VuZCgpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLVs3MHZoXSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC04eGwgbWQ6dGV4dC05eGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LWFjY2VudC8yMCBtYi00Ij4KICAgICAgICAgIDQwNAogICAgICAgIDwvZGl2PgogICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtMnhsIG1kOnRleHQtM3hsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC10ZXh0IG1iLTQiPgogICAgICAgICAg0KHRgtGA0LDQvdC40YbQsCDQvdC1INC90LDQudC00LXQvdCwCiAgICAgICAgPC9oMT4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtdGV4dC1saWdodCBtYi04IG1heC13LW1kIG14LWF1dG8iPgogICAgICAgICAg0JLQvtC30LzQvtC20L3Qviwg0YHRgtGA0LDQvdC40YbQsCDQsdGL0LvQsCDRg9C00LDQu9C10L3QsCDQuNC70Lgg0LLRiyDQstCy0LXQu9C4INC90LXQstC10YDQvdGL0Lkg0LDQtNGA0LXRgS4KICAgICAgICAgINCS0LXRgNC90LjRgtC10YHRjCDQvdCwINCz0LvQsNCy0L3Rg9GOINGB0YLRgNCw0L3QuNGG0YMuCiAgICAgICAgPC9wPgogICAgICAgIDxMaW5rIGhyZWY9Ii8iPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBzaXplPSJsZyI+CiAgICAgICAgICAgINCS0LXRgNC90YPRgtGM0YHRjyDQvdCwINCz0LvQsNCy0L3Rg9GOCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0xpbms+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+import Link from "next/link";
+import { Button } from "@/components/ui/Button";
+
+export default function NotFound() {
+  return (
+    <div className="min-h-[70vh] flex items-center justify-center">
+      <div className="text-center px-4">
+        <div className="text-8xl md:text-9xl font-heading font-bold text-accent/20 mb-4">
+          404
+        </div>
+        <h1 className="text-2xl md:text-3xl font-heading font-bold text-text mb-4">
+          Страница не найдена
+        </h1>
+        <p className="text-text-light mb-8 max-w-md mx-auto">
+          Возможно, страница была удалена или вы ввели неверный адрес.
+          Вернитесь на главную страницу.
+        </p>
+        <Link href="/">
+          <Button variant="primary" size="lg">
+            Вернуться на главную
+          </Button>
+        </Link>
+      </div>
+    </div>
+  );
+}

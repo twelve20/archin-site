@@ -1,1 +1,100 @@
-{"data":"aW1wb3J0IHsgTWV0YWRhdGEgfSBmcm9tICJuZXh0IjsKaW1wb3J0IHsgbm90Rm91bmQgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyBwcm9kdWN0cywgZ2V0UHJvZHVjdEJ5U2x1ZywgZ2V0UHJvZHVjdHNCeUNhdGVnb3J5IH0gZnJvbSAiQC9kYXRhL3Byb2R1Y3RzIjsKaW1wb3J0IHsgQnJlYWRjcnVtYnMgfSBmcm9tICJAL2NvbXBvbmVudHMvbGF5b3V0L0JyZWFkY3J1bWJzIjsKaW1wb3J0IHsgUHJvZHVjdERldGFpbCB9IGZyb20gIkAvY29tcG9uZW50cy9jYXRhbG9nL1Byb2R1Y3REZXRhaWwiOwppbXBvcnQgeyBSZWxhdGVkUHJvZHVjdHMgfSBmcm9tICJAL2NvbXBvbmVudHMvY2F0YWxvZy9SZWxhdGVkUHJvZHVjdHMiOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdlbmVyYXRlU3RhdGljUGFyYW1zKCkgewogIHJldHVybiBwcm9kdWN0cy5tYXAoKHByb2R1Y3QpID0+ICh7CiAgICBzbHVnOiBwcm9kdWN0LnNsdWcsCiAgfSkpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2VuZXJhdGVNZXRhZGF0YSh7CiAgcGFyYW1zLAp9OiB7CiAgcGFyYW1zOiBQcm9taXNlPHsgc2x1Zzogc3RyaW5nIH0+Owp9KTogUHJvbWlzZTxNZXRhZGF0YT4gewogIGNvbnN0IHsgc2x1ZyB9ID0gYXdhaXQgcGFyYW1zOwogIGNvbnN0IHByb2R1Y3QgPSBnZXRQcm9kdWN0QnlTbHVnKHNsdWcpOwoKICBpZiAoIXByb2R1Y3QpIHsKICAgIHJldHVybiB7IHRpdGxlOiAi0KLQvtCy0LDRgCDQvdC1INC90LDQudC00LXQvSIgfTsKICB9CgogIHJldHVybiB7CiAgICB0aXRsZTogYCR7cHJvZHVjdC5uYW1lfSDigJQg0LrRg9C/0LjRgtGMINCyINCc0L7RgdC60LLQtWAsCiAgICBkZXNjcmlwdGlvbjogYCR7cHJvZHVjdC5zaG9ydERlc2NyaXB0aW9ufSAke3Byb2R1Y3QuZGVzY3JpcHRpb24uc2xpY2UoMCwgMTIwKX0uLi5gLAogICAgb3BlbkdyYXBoOiB7CiAgICAgIHRpdGxlOiBgJHtwcm9kdWN0Lm5hbWV9IHwg0J7RhNC40YbQuNCw0LvRjNC90YvQuSDQtNC40LvQtdGAIEFyY2hpbmAsCiAgICAgIGRlc2NyaXB0aW9uOiBwcm9kdWN0LnNob3J0RGVzY3JpcHRpb24sCiAgICAgIHR5cGU6ICJ3ZWJzaXRlIiwKICAgICAgaW1hZ2VzOiBbeyB1cmw6IHByb2R1Y3QuaW1hZ2UgfV0sCiAgICB9LAogIH07Cn0KCmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIFByb2R1Y3RQYWdlKHsKICBwYXJhbXMsCn06IHsKICBwYXJhbXM6IFByb21pc2U8eyBzbHVnOiBzdHJpbmcgfT47Cn0pIHsKICBjb25zdCB7IHNsdWcgfSA9IGF3YWl0IHBhcmFtczsKICBjb25zdCBwcm9kdWN0ID0gZ2V0UHJvZHVjdEJ5U2x1ZyhzbHVnKTsKCiAgaWYgKCFwcm9kdWN0KSB7CiAgICBub3RGb3VuZCgpOwogIH0KCiAgY29uc3QgcmVsYXRlZFByb2R1Y3RzID0gZ2V0UHJvZHVjdHNCeUNhdGVnb3J5KHByb2R1Y3QuY2F0ZWdvcnkpCiAgICAuZmlsdGVyKChwKSA9PiBwLmlkICE9PSBwcm9kdWN0LmlkKQogICAgLnNsaWNlKDAsIDQpOwoKICBjb25zdCBicmVhZGNydW1icyA9IFsKICAgIHsgbGFiZWw6ICLQk9C70LDQstC90LDRjyIsIGhyZWY6ICIvIiB9LAogICAgeyBsYWJlbDogItCa0LDRgtCw0LvQvtCzIiwgaHJlZjogIi9jYXRhbG9nIiB9LAogICAgeyBsYWJlbDogcHJvZHVjdC5jYXRlZ29yeU5hbWUsIGhyZWY6IGAvY2F0YWxvZz9jYXRlZ29yeT0ke3Byb2R1Y3QuY2F0ZWdvcnl9YCB9LAogICAgeyBsYWJlbDogcHJvZHVjdC5uYW1lIH0sCiAgXTsKCiAgY29uc3QganNvbkxkID0gewogICAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgICAiQHR5cGUiOiAiUHJvZHVjdCIsCiAgICBuYW1lOiBwcm9kdWN0Lm5hbWUsCiAgICBkZXNjcmlwdGlvbjogcHJvZHVjdC5kZXNjcmlwdGlvbiwKICAgIGltYWdlOiBgaHR0cHM6Ly9zbG9pLnJ1JHtwcm9kdWN0LmltYWdlfWAsCiAgICBicmFuZDogewogICAgICAiQHR5cGUiOiAiQnJhbmQiLAogICAgICBuYW1lOiAiQXJjaGluIiwKICAgIH0sCiAgICBjYXRlZ29yeTogcHJvZHVjdC5jYXRlZ29yeU5hbWUsCiAgICBvZmZlcnM6IHsKICAgICAgIkB0eXBlIjogIk9mZmVyIiwKICAgICAgcHJpY2U6IHByb2R1Y3QucHJpY2UsCiAgICAgIHByaWNlQ3VycmVuY3k6ICJSVUIiLAogICAgICBhdmFpbGFiaWxpdHk6ICJodHRwczovL3NjaGVtYS5vcmcvSW5TdG9jayIsCiAgICAgIHNlbGxlcjogewogICAgICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgICAgIG5hbWU6ICJTTE9JIiwKICAgICAgICBsZWdhbE5hbWU6ICLQntCe0J4gwqvQntCb0J3QkNCh0KIg0JPQoNCj0J/Qn8K7IiwKICAgICAgfSwKICAgIH0sCiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJwdC0yNCBwYi0xNiI+CiAgICAgIDxzY3JpcHQKICAgICAgICB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIgogICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkoanNvbkxkKSB9fQogICAgICAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLWN1c3RvbSI+CiAgICAgICAgPEJyZWFkY3J1bWJzIGl0ZW1zPXticmVhZGNydW1ic30gLz4KICAgICAgICA8UHJvZHVjdERldGFpbCBwcm9kdWN0PXtwcm9kdWN0fSAvPgogICAgICAgIHtyZWxhdGVkUHJvZHVjdHMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICA8UmVsYXRlZFByb2R1Y3RzIHByb2R1Y3RzPXtyZWxhdGVkUHJvZHVjdHN9IC8+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { products, getProductBySlug, getProductsByCategory } from "@/data/products";
+import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
+import { ProductDetail } from "@/components/catalog/ProductDetail";
+import { RelatedProducts } from "@/components/catalog/RelatedProducts";
+
+export async function generateStaticParams() {
+  return products.map((product) => ({
+    slug: product.slug,
+  }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const product = getProductBySlug(slug);
+
+  if (!product) {
+    return { title: "Товар не найден" };
+  }
+
+  return {
+    title: `${product.name} — купить в Москве`,
+    description: `${product.shortDescription} ${product.description.slice(0, 120)}...`,
+    openGraph: {
+      title: `${product.name} | Официальный дилер Archin`,
+      description: product.shortDescription,
+      type: "website",
+      images: [{ url: product.image }],
+    },
+  };
+}
+
+export default async function ProductPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
+  const product = getProductBySlug(slug);
+
+  if (!product) {
+    notFound();
+  }
+
+  const relatedProducts = getProductsByCategory(product.category)
+    .filter((p) => p.id !== product.id)
+    .slice(0, 4);
+
+  const breadcrumbs = [
+    { label: "Главная", href: "/" },
+    { label: "Каталог", href: "/catalog" },
+    { label: product.categoryName, href: `/catalog?category=${product.category}` },
+    { label: product.name },
+  ];
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: product.name,
+    description: product.description,
+    image: `https://sloi.ru${product.image}`,
+    brand: {
+      "@type": "Brand",
+      name: "Archin",
+    },
+    category: product.categoryName,
+    offers: {
+      "@type": "Offer",
+      price: product.price,
+      priceCurrency: "RUB",
+      availability: "https://schema.org/InStock",
+      seller: {
+        "@type": "Organization",
+        name: "SLOI",
+        legalName: "ООО «ОЛНАСТ ГРУПП»",
+      },
+    },
+  };
+
+  return (
+    <div className="pt-24 pb-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <div className="container-custom">
+        <Breadcrumbs items={breadcrumbs} />
+        <ProductDetail product={product} />
+        {relatedProducts.length > 0 && (
+          <RelatedProducts products={relatedProducts} />
+        )}
+      </div>
+    </div>
+  );
+}

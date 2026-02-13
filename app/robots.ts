@@ -1,1 +1,14 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiByb2JvdHMoKTogTWV0YWRhdGFSb3V0ZS5Sb2JvdHMgewogIHJldHVybiB7CiAgICBydWxlczogWwogICAgICB7CiAgICAgICAgdXNlckFnZW50OiAiKiIsCiAgICAgICAgYWxsb3c6ICIvIiwKICAgICAgICBkaXNhbGxvdzogWyIvYXBpLyJdLAogICAgICB9LAogICAgXSwKICAgIHNpdGVtYXA6ICJodHRwczovL3Nsb2kucnUvc2l0ZW1hcC54bWwiLAogIH07Cn0K"}
+import type { MetadataRoute } from "next";
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: [
+      {
+        userAgent: "*",
+        allow: "/",
+        disallow: ["/api/"],
+      },
+    ],
+    sitemap: "https://sloi.ru/sitemap.xml",
+  };
+}
