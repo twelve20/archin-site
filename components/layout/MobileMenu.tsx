@@ -45,7 +45,7 @@ export function MobileMenu({ isOpen, onClose, onOrderClick }: MobileMenuProps) {
             <div className="flex items-center justify-between p-6 border-b border-border">
               <div>
                 <div className="font-heading font-bold text-lg tracking-widest text-text">
-                  OLNAST
+                  SLOI
                 </div>
                 <div className="text-xs text-text-light">{companyInfo.subtitle}</div>
               </div>

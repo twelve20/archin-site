@@ -14,7 +14,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
       "@type": "ListItem",
       position: index + 1,
       name: item.label,
-      ...(item.href && { item: `https://olnast.ru${item.href}` }),
+      ...(item.href && { item: `https://sloyi.ru${item.href}` }),
     })),
   };
 

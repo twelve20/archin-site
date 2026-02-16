@@ -17,13 +17,13 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://olnast.ru"),
+  metadataBase: new URL("https://sloyi.ru"),
   title: {
-    default: "OLNAST — Официальный дилер Archin в Москве и МО",
-    template: "%s | OLNAST — дилер Archin",
+    default: "SLOI — Официальный дилер Archin в Москве и МО",
+    template: "%s | SLOI — дилер Archin",
   },
   description:
-    "OLNAST (ООО «ОЛНАСТ ГРУПП») — официальный дилер строительных материалов Archin в Москве и Московской области. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены.",
+    "SLOI (ООО «ОЛНАСТ ГРУПП») — официальный дилер строительных материалов Archin в Москве и Московской области. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены.",
   keywords: [
     "Archin",
     "Архин",
@@ -37,14 +37,14 @@ export const metadata: Metadata = {
     "плиточный клей",
     "гидроизоляция",
     "купить Архин Москва",
-    "OLNAST",
+    "SLOI",
     "ОЛНАСТ ГРУПП",
   ],
   openGraph: {
     type: "website",
     locale: "ru_RU",
-    siteName: "OLNAST",
-    title: "OLNAST — Официальный дилер Archin в Москве и МО",
+    siteName: "SLOI",
+    title: "SLOI — Официальный дилер Archin в Москве и МО",
     description:
       "ООО «ОЛНАСТ ГРУПП» — официальный дилер ТМ Archin. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены.",
   },
