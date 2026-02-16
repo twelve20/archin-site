@@ -20,8 +20,12 @@ export function ContactForm() {
   });
 
   const onSubmit = async (data: ContactFormValues) => {
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-    console.log("Contact form submitted:", data);
+    const res = await fetch("/api/send-telegram", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ...data, formType: "contact" }),
+    });
+    if (!res.ok) throw new Error("Ошибка отправки");
     setSubmitted(true);
     setTimeout(() => {
       reset();

@@ -31,9 +31,12 @@ export function OrderModal({ isOpen, onClose, productName }: OrderModalProps) {
   });
 
   const onSubmit = async (data: OrderFormValues) => {
-    // Simulate API call
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-    console.log("Order form submitted:", data);
+    const res = await fetch("/api/send-telegram", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ...data, formType: "order" }),
+    });
+    if (!res.ok) throw new Error("Ошибка отправки");
     setSubmitted(true);
     setTimeout(() => {
       reset();

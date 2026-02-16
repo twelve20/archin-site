@@ -7,8 +7,8 @@ export const mainNavItems: NavItem[] = [
 ];
 
 export const companyInfo = {
-  name: "SLOI",
-  siteName: "Слои",
+  name: "OLNAST",
+  siteName: "Олнаст",
   legalName: "ООО «ОЛНАСТ ГРУПП»",
   inn: "5038193872",
   subtitle: "Официальный дилер Archin",

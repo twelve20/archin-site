@@ -39,7 +39,7 @@ export function Header() {
           <div className="flex items-center justify-between h-20">
             <Link href="/" className="flex flex-col">
               <span className="font-heading font-bold text-xl tracking-widest text-text">
-                SLOI
+                OLNAST
               </span>
               <span className="text-[10px] text-text-light tracking-wide uppercase">
                 {companyInfo.subtitle}

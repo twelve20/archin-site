@@ -11,7 +11,7 @@ export function Footer() {
           {/* О компании */}
           <div>
             <div className="font-heading font-bold text-xl mb-1">
-              SLOI
+              OLNAST
             </div>
             <div className="text-sm text-warm/60 mb-4">
               {companyInfo.subtitle}

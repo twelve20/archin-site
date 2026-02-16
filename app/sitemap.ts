@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { products } from "@/data/products";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://sloi.ru";
+  const baseUrl = "https://olnast.ru";
 
   const productUrls = products.map((product) => ({
     url: `${baseUrl}/catalog/${product.slug}`,

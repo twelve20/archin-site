@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/"],
       },
     ],
-    sitemap: "https://sloi.ru/sitemap.xml",
+    sitemap: "https://olnast.ru/sitemap.xml",
   };
 }

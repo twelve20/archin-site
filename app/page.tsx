@@ -10,11 +10,11 @@ import {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "SLOI",
+  name: "OLNAST",
   legalName: "ООО «ОЛНАСТ ГРУПП»",
   description:
     "Официальный дилер строительных материалов Archin в Москве и Московской области. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция.",
-  url: "https://sloi.ru",
+  url: "https://olnast.ru",
   telephone: "+7 (963) 927-31-24",
   email: "olnast.ru@yandex.ru",
   address: {

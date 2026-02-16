@@ -63,7 +63,7 @@ export default async function ProductPage({
     "@type": "Product",
     name: product.name,
     description: product.description,
-    image: `https://sloi.ru${product.image}`,
+    image: `https://olnast.ru${product.image}`,
     brand: {
       "@type": "Brand",
       name: "Archin",
@@ -76,7 +76,7 @@ export default async function ProductPage({
       availability: "https://schema.org/InStock",
       seller: {
         "@type": "Organization",
-        name: "SLOI",
+        name: "OLNAST",
         legalName: "ООО «ОЛНАСТ ГРУПП»",
       },
     },
