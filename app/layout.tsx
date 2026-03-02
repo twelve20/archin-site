@@ -73,6 +73,10 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
   verification: {
     yandex: "afb9227792562e64",
   },
@@ -86,6 +90,8 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${inter.variable} ${montserrat.variable}`}>
       <head>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
             (function(m,e,t,r,i,k,a){
