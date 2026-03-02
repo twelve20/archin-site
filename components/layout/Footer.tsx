@@ -26,7 +26,7 @@ export function Footer() {
             <h4 className="font-heading font-semibold text-base mb-4">
               Каталог
             </h4>
-            <nav className="space-y-2.5">
+            <nav aria-label="Категории каталога" className="space-y-2.5">
               {categories.map((cat) => (
                 <Link
                   key={cat.slug}
@@ -44,7 +44,7 @@ export function Footer() {
             <h4 className="font-heading font-semibold text-base mb-4">
               Информация
             </h4>
-            <nav className="space-y-2.5">
+            <nav aria-label="Информация о компании" className="space-y-2.5">
               <Link
                 href="/#about"
                 className="block text-sm text-warm/70 hover:text-accent transition-colors"

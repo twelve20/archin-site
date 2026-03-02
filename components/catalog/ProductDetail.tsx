@@ -18,7 +18,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
 
   return (
     <>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-16">
+      <article itemScope itemType="https://schema.org/Product" className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-16">
         {/* Image */}
         <AnimateOnScroll>
           <div
@@ -39,7 +39,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
             <div className="relative h-80 md:h-[400px] lg:h-[480px] w-full">
               <Image
                 src={product.image}
-                alt={product.name}
+                alt={`${product.name} Archin — ${product.categoryName}, купить у официального дилера`}
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-contain p-8 drop-shadow-xl"
@@ -89,7 +89,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
             </div>
           </div>
         </AnimateOnScroll>
-      </div>
+      </article>
 
       {/* Specifications */}
       {product.specs.length > 0 && (

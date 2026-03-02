@@ -23,14 +23,20 @@ export async function generateMetadata({
     return { title: "Товар не найден" };
   }
 
+  const description = `${product.name} Archin — ${product.shortDescription} Цена: ${product.price.toLocaleString("ru-RU")} ₽. Купить в Москве и МО у официального дилера SLOI.`;
+
   return {
-    title: `${product.name} — купить в Москве`,
-    description: `${product.shortDescription} ${product.description.slice(0, 120)}...`,
+    title: `${product.name} — купить в Москве | Цена ${product.price.toLocaleString("ru-RU")} ₽`,
+    description,
+    alternates: {
+      canonical: `https://sloyi.ru/catalog/${slug}`,
+    },
     openGraph: {
-      title: `${product.name} | Официальный дилер Archin`,
+      title: `${product.name} — ${product.price.toLocaleString("ru-RU")} ₽ | Дилер Archin`,
       description: product.shortDescription,
       type: "website",
-      images: [{ url: product.image }],
+      url: `https://sloyi.ru/catalog/${slug}`,
+      images: [{ url: product.image, alt: product.name }],
     },
   };
 }
@@ -64,20 +70,25 @@ export default async function ProductPage({
     name: product.name,
     description: product.description,
     image: `https://sloyi.ru${product.image}`,
+    url: `https://sloyi.ru/catalog/${product.slug}`,
     brand: {
       "@type": "Brand",
       name: "Archin",
     },
     category: product.categoryName,
+    sku: product.slug,
     offers: {
       "@type": "Offer",
       price: product.price,
       priceCurrency: "RUB",
       availability: "https://schema.org/InStock",
+      url: `https://sloyi.ru/catalog/${product.slug}`,
+      priceValidUntil: "2026-12-31",
       seller: {
         "@type": "Organization",
         name: "SLOI",
         legalName: "ООО «ОЛНАСТ ГРУПП»",
+        url: "https://sloyi.ru",
       },
     },
   };

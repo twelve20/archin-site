@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
+
+export const metadata: Metadata = {
+  title: "Страница не найдена",
+  robots: { index: false, follow: true },
+};
 
 export default function NotFound() {
   return (
@@ -13,13 +19,20 @@ export default function NotFound() {
         </h1>
         <p className="text-text-light mb-8 max-w-md mx-auto">
           Возможно, страница была удалена или вы ввели неверный адрес.
-          Вернитесь на главную страницу.
+          Вернитесь на главную или перейдите в каталог.
         </p>
-        <Link href="/">
-          <Button variant="primary" size="lg">
-            Вернуться на главную
-          </Button>
-        </Link>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <Link href="/">
+            <Button variant="primary" size="lg">
+              На главную
+            </Button>
+          </Link>
+          <Link href="/catalog">
+            <Button variant="secondary" size="lg">
+              Каталог товаров
+            </Button>
+          </Link>
+        </div>
       </div>
     </div>
   );

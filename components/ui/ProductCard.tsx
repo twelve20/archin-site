@@ -26,7 +26,7 @@ export function ProductCard({ product }: ProductCardProps) {
           />
           <Image
             src={product.image}
-            alt={product.name}
+            alt={`${product.name} Archin — купить в Москве`}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
             className="object-contain p-6 drop-shadow-lg transition-transform duration-500 group-hover:scale-110"
