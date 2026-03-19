@@ -36,7 +36,13 @@ export async function generateMetadata({
       description: product.shortDescription,
       type: "website",
       url: `https://sloyi.ru/catalog/${slug}`,
-      images: [{ url: product.image, alt: product.name }],
+      images: [{ url: `https://sloyi.ru${product.image}`, width: 800, height: 800, alt: product.name }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${product.name} — ${product.price.toLocaleString("ru-RU")} ₽`,
+      description: product.shortDescription,
+      images: [`https://sloyi.ru${product.image}`],
     },
   };
 }

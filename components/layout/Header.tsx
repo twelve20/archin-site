@@ -52,7 +52,7 @@ export function Header() {
                   key={item.href}
                   href={item.href}
                   className={cn(
-                    "text-sm font-medium tracking-wide transition-colors",
+                    "text-sm font-medium tracking-wide transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/50 focus-visible:rounded-sm",
                     pathname === item.href
                       ? "text-accent"
                       : "text-text hover:text-accent"

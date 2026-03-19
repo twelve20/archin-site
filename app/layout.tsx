@@ -55,12 +55,21 @@ export const metadata: Metadata = {
     title: "SLOI — Официальный дилер Archin в Москве и МО",
     description:
       "ООО «ОЛНАСТ ГРУПП» — официальный дилер ТМ Archin. Штукатурки, шпатлёвки, декоративные покрытия, краски, грунтовки, плиточные клеи, гидроизоляция. Дилерские цены, доставка.",
+    images: [
+      {
+        url: "https://sloyi.ru/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "SLOI — Официальный дилер строительных материалов Archin в Москве",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "SLOI — Официальный дилер Archin в Москве и МО",
     description:
       "Строительные материалы Archin: штукатурки, шпатлёвки, краски, грунтовки. Дилерские цены.",
+    images: ["https://sloyi.ru/og-image.png"],
   },
   robots: {
     index: true,

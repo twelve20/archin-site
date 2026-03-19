@@ -15,6 +15,21 @@ export const metadata: Metadata = {
     description:
       "31 продукт Archin по дилерским ценам. Штукатурки, шпатлёвки, краски, грунтовки, клеи, гидроизоляция.",
     url: "https://sloyi.ru/catalog",
+    images: [
+      {
+        url: "https://sloyi.ru/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Каталог строительных материалов Archin — SLOI",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Каталог строительных материалов Archin",
+    description:
+      "31 продукт Archin по дилерским ценам. Штукатурки, шпатлёвки, краски, грунтовки, клеи, гидроизоляция.",
+    images: ["https://sloyi.ru/og-image.png"],
   },
 };
 
