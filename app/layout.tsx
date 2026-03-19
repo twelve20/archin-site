@@ -74,8 +74,12 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      { url: "/favicon.ico", type: "image/x-icon" },
+      { url: "/favicon-120x120.png", type: "image/png", sizes: "120x120" },
+    ],
     shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   verification: {
     yandex: "afb9227792562e64",
@@ -91,7 +95,9 @@ export default function RootLayout({
     <html lang="ru" className={`${inter.variable} ${montserrat.variable}`}>
       <head>
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon-120x120.png" type="image/png" sizes="120x120" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
         <Script id="yandex-metrika" strategy="afterInteractive">
           {`
             (function(m,e,t,r,i,k,a){
