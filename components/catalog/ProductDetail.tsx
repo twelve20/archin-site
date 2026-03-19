@@ -52,7 +52,12 @@ export function ProductDetail({ product }: ProductDetailProps) {
         {/* Info */}
         <AnimateOnScroll delay={0.15}>
           <div>
-            <Badge className="mb-4">{product.categoryName}</Badge>
+            <div className="flex items-center gap-2 mb-4">
+              <Badge>{product.categoryName}</Badge>
+              {product.promo && (
+                <Badge variant="sale">{product.promo}</Badge>
+              )}
+            </div>
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-heading font-bold text-text leading-tight mb-4">
               {product.name}
             </h1>
@@ -67,6 +72,11 @@ export function ProductDetail({ product }: ProductDetailProps) {
               <span className="text-3xl md:text-4xl font-heading font-bold text-accent">
                 {product.price.toLocaleString("ru-RU")} ₽
               </span>
+              {product.oldPrice && (
+                <span className="ml-3 text-xl text-text-light line-through">
+                  {product.oldPrice.toLocaleString("ru-RU")} ₽
+                </span>
+              )}
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3 mb-8">

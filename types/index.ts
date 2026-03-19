@@ -30,6 +30,8 @@ export interface Product {
   specs: ProductSpec[];
   image: string;
   price: number;
+  oldPrice?: number;
+  promo?: string;
   popular: boolean;
   gradientFrom: string;
   gradientTo: string;

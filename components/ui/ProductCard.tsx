@@ -19,6 +19,11 @@ export function ProductCard({ product }: ProductCardProps) {
             background: `linear-gradient(145deg, ${product.gradientFrom}40 0%, ${product.gradientTo}25 100%)`,
           }}
         >
+          {product.promo && (
+            <Badge variant="sale" className="absolute top-3 right-3 z-10">
+              {product.promo}
+            </Badge>
+          )}
           {/* Decorative circle */}
           <div
             className="absolute -bottom-10 -right-10 w-40 h-40 rounded-full opacity-20"
@@ -44,9 +49,16 @@ export function ProductCard({ product }: ProductCardProps) {
           {product.shortDescription}
         </p>
         <div className="flex items-center justify-between mt-auto">
-          <span className="text-lg font-heading font-bold text-text">
-            {product.price.toLocaleString("ru-RU")} ₽
-          </span>
+          <div className="flex items-center gap-2">
+            <span className="text-lg font-heading font-bold text-text">
+              {product.price.toLocaleString("ru-RU")} ₽
+            </span>
+            {product.oldPrice && (
+              <span className="text-sm text-text-light line-through">
+                {product.oldPrice.toLocaleString("ru-RU")} ₽
+              </span>
+            )}
+          </div>
           <Link
             href={`/catalog/${product.slug}`}
             className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:text-accent-hover transition-colors"

@@ -1,5 +1,6 @@
 import {
   Hero,
+  PromoProducts,
   Categories,
   Benefits,
   PopularProducts,
@@ -127,6 +128,7 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }}
       />
       <Hero />
+      <PromoProducts />
       <Categories />
       <Benefits />
       <PopularProducts />

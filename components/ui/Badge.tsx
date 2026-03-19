@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils";
 
 interface BadgeProps {
   children: React.ReactNode;
-  variant?: "default" | "accent" | "new";
+  variant?: "default" | "accent" | "new" | "sale";
   className?: string;
 }
 
@@ -11,6 +11,7 @@ export function Badge({ children, variant = "default", className }: BadgeProps) 
     default: "bg-secondary text-text-light",
     accent: "bg-accent text-white",
     new: "bg-emerald-500 text-white",
+    sale: "bg-red-500 text-white",
   };
 
   return (
